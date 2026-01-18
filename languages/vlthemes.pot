@@ -1,0 +1,3619 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Leedo Helper Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-18 08:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#: includes/dashboard/templates/template-helper.php:88
+msgid "\">there!</a>"
+msgstr ""
+
+#: includes/dashboard/theme-activation/theme-activation.php:19
+#, php-format
+msgid "<a href=\"%s\" class=\"button button-primary\">Activate</a>"
+msgstr ""
+
+#: includes/elementor/blocks/block_slider_fixed_bar.php:588
+msgid "Absolute"
+msgstr ""
+
+#: includes/elementor/blocks/block_action_block.php:19
+#: includes/elementor/blocks/block_action_block.php:41
+msgid "Action Block"
+msgstr ""
+
+#. page title
+#: includes/dashboard/dashboard.php:91 includes/dashboard/dashboard.php:92
+msgid "Activate Theme"
+msgstr ""
+
+#: includes/dashboard/templates/template-activate.php:20
+msgid "Activate your Licence"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:169
+#: includes/elementor/blocks/block_testimonial.php:185
+#: includes/elementor/blocks/block_testimonial.php:265
+#: includes/elementor/blocks/block_testimonial.php:405
+#: includes/elementor/blocks/block_testimonial.php:464
+msgid "Active"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:708
+msgid "Active Background Color"
+msgstr ""
+
+#: includes/elementor/blocks/block_justified_gallery.php:60
+msgid "Add Images"
+msgstr ""
+
+#: includes/helper-functions.php:103
+msgid "Add New Item"
+msgstr ""
+
+#: includes/helper-functions.php:54 includes/helper-functions.php:55
+msgid "Add New Slide"
+msgstr ""
+
+#: includes/helper-functions.php:108
+msgid "Add or remove items"
+msgstr ""
+
+#: includes/elementor/blocks/block_section_title.php:71
+#: includes/elementor/blocks/block_heading.php:71
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: includes/elementor/blocks/block_button.php:189
+#: includes/elementor/blocks/block_pricing_table.php:418
+msgid "After"
+msgstr ""
+
+#: includes/elementor/blocks/block_images_compare.php:70
+msgid "After Image"
+msgstr ""
+
+#: includes/elementor/blocks/block_alert_message.php:19
+#: includes/elementor/blocks/block_alert_message.php:41
+msgid "Alert Message"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:126
+#: includes/elementor/blocks/block_progress_bar.php:169
+#: includes/elementor/blocks/block_simple_icon.php:124
+#: includes/elementor/blocks/block_phone_block.php:89
+#: includes/elementor/blocks/block_button.php:106
+#: includes/elementor/blocks/block_google_map.php:398
+#: includes/elementor/blocks/block_demo_item.php:125
+#: includes/elementor/blocks/block_video_button.php:249
+#: includes/elementor/blocks/block_social_icons.php:704
+#: includes/elementor/blocks/block_simple_link.php:90
+#: includes/elementor/blocks/block_service_box.php:110
+#: includes/elementor/blocks/block_pricing_table.php:228
+#: includes/elementor/blocks/block_page_title.php:122
+#: includes/elementor/blocks/block_slider_controls.php:123
+#: includes/elementor/blocks/block_section_title.php:115
+#: includes/elementor/blocks/block_action_block.php:80
+#: includes/elementor/blocks/block_pie_chart.php:111
+#: includes/elementor/blocks/block_fancy_text.php:228
+#: includes/elementor/blocks/block_testimonial.php:122
+#: includes/elementor/blocks/block_testimonial.php:520
+#: includes/elementor/blocks/block_slider_fixed_bar.php:595
+#: includes/elementor/blocks/block_countdown.php:359
+#: includes/elementor/blocks/block_simple_image.php:146
+#: includes/elementor/blocks/block_counter_up.php:138
+#: includes/elementor/blocks/block_heading.php:114
+#: includes/elementor/blocks/block_partner.php:95
+msgid "Alignment"
+msgstr ""
+
+#: includes/helper-functions.php:99
+msgid "All Item Categories"
+msgstr ""
+
+#: includes/elementor/blocks/block_single_post.php:59
+msgid "Also like"
+msgstr ""
+
+#: includes/elementor/extensions/aos-animation/aos-animation.php:123
+msgid "Animate only once while scrolling down"
+msgstr ""
+
+#: includes/elementor/blocks/block_simple_image.php:82
+#: includes/elementor/extensions/aos-animation/aos-animation.php:77
+msgid "Animation Delay"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:203
+#: includes/elementor/blocks/block_pie_chart.php:167
+#: includes/elementor/blocks/block_counter_up.php:174
+#: includes/elementor/blocks/block_marquee_text.php:67
+#: includes/elementor/extensions/aos-animation/aos-animation.php:91
+msgid "Animation Duration"
+msgstr ""
+
+#: includes/elementor/extensions/aos-animation/aos-animation.php:36
+msgid "Animation Name"
+msgstr ""
+
+#: includes/elementor/extensions/aos-animation/aos-animation.php:107
+msgid "Animation Offset"
+msgstr ""
+
+#: includes/elementor/extensions/aos-animation/aos-animation.php:122
+msgid "Animation Once"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:241
+#: includes/elementor/blocks/block_awards.php:167
+msgid "Animation Speed"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:125
+msgid "Animation Type"
+msgstr ""
+
+#: includes/elementor/extensions/aos-animation/aos-animation.php:29
+msgid "AOS Animation"
+msgstr ""
+
+#: includes/elementor/blocks/block_slider_controls.php:65
+msgid "Arrows"
+msgstr ""
+
+#: includes/elementor/blocks/block_slider_controls.php:73
+msgid "Arrows Style"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:221
+msgid "Ascending"
+msgstr ""
+
+#: includes/elementor/blocks/block_twitter_review.php:81
+#: includes/elementor/blocks/block_twitter_review.php:235
+msgid "Author"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:158
+msgid "Author:"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:144
+#: includes/elementor/blocks/block_content_slider.php:69
+msgid "Auto"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:129
+msgid "Auto Play"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:257
+msgid "Autoplay"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:265
+msgid "Autoplay Speed"
+msgstr ""
+
+#: includes/elementor/blocks/block_twitter_review.php:60
+#: includes/elementor/blocks/block_twitter_review.php:110
+#: includes/elementor/blocks/block_testimonial.php:60
+#: includes/elementor/blocks/block_testimonial.php:295
+msgid "Avatar"
+msgstr ""
+
+#: includes/elementor/blocks/block_awards.php:27
+#: includes/elementor/blocks/block_awards.php:49
+msgid "Awards"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:273
+msgid "Background"
+msgstr ""
+
+#: includes/elementor/blocks/block_timeline.php:174
+#: includes/elementor/blocks/block_phone_block.php:142
+#: includes/elementor/blocks/block_button.php:238
+#: includes/elementor/blocks/block_button.php:274
+#: includes/elementor/blocks/block_video_button.php:349
+#: includes/elementor/blocks/block_video_button.php:385
+#: includes/elementor/blocks/block_pricing_table.php:252
+#: includes/elementor/blocks/block_pricing_table.php:698
+#: includes/elementor/blocks/block_section_title.php:199
+#: includes/elementor/blocks/block_twitter_review.php:180
+#: includes/elementor/blocks/block_action_block.php:115
+#: includes/elementor/blocks/block_alert_message.php:130
+#: includes/elementor/blocks/block_fancy_text.php:310
+#: includes/elementor/blocks/block_testimonial.php:165
+#: includes/elementor/blocks/block_testimonial.php:198
+#: includes/elementor/blocks/block_slider_fixed_bar.php:692
+#: includes/elementor/blocks/block_countdown.php:320
+#: includes/elementor/blocks/block_simple_image.php:207
+#: includes/elementor/blocks/block_simple_image.php:252
+#: includes/elementor/blocks/block_simple_image.php:281
+#: includes/elementor/blocks/block_counter_up.php:244
+#: includes/elementor/blocks/block_awards.php:220
+#: includes/elementor/blocks/showcase/block_showcase_12.php:259
+msgid "Background Color"
+msgstr ""
+
+#: includes/elementor/blocks/block_demo_item.php:81
+msgid "Badge"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:291
+#: includes/elementor/blocks/block_pie_chart.php:252
+msgid "Bar Color"
+msgstr ""
+
+#: includes/elementor/blocks/block_button.php:188
+#: includes/elementor/blocks/block_pricing_table.php:414
+msgid "Before"
+msgstr ""
+
+#: includes/elementor/blocks/block_images_compare.php:60
+msgid "Before Image"
+msgstr ""
+
+#: includes/dashboard/templates/template-helper.php:40
+msgid ""
+"Before submitting a ticket, please read the documentation. Probably, your "
+"issue already described."
+msgstr ""
+
+#: includes/elementor/blocks/block_slider_progress.php:65
+msgid "Black"
+msgstr ""
+
+#: includes/elementor/blocks/block_heading.php:196
+msgid "Blend Mode"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:83
+msgid "Block"
+msgstr ""
+
+#: includes/elementor/blocks/block_timeline.php:146
+#: includes/elementor/blocks/block_timeline.php:164
+#: includes/elementor/blocks/block_awards.php:192
+#: includes/elementor/blocks/block_awards.php:210
+msgid "Border Color"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:252
+#: includes/elementor/blocks/block_video_button.php:311
+#: includes/elementor/blocks/block_twitter_review.php:137
+#: includes/elementor/blocks/block_alert_message.php:148
+#: includes/elementor/blocks/block_fancy_text.php:328
+#: includes/elementor/blocks/block_testimonial.php:322
+msgid "Border Radius"
+msgstr ""
+
+#: includes/elementor/blocks/block_slider_controls.php:64
+msgid "Both"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:222
+#: includes/elementor/blocks/block_pricing_table.php:441
+#: includes/elementor/blocks/block_pricing_table.php:531
+#: includes/elementor/blocks/block_pricing_table.php:597
+#: includes/elementor/blocks/block_testimonial.php:512
+#: includes/elementor/blocks/block_simple_image.php:175
+msgid "Bottom"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:176
+#: includes/elementor/blocks/block_google_map.php:234
+#: includes/elementor/blocks/block_google_map.php:265
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:175
+#: includes/elementor/blocks/block_google_map.php:233
+#: includes/elementor/blocks/block_google_map.php:264
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:169
+#: includes/elementor/blocks/block_google_map.php:177
+#: includes/elementor/blocks/block_google_map.php:235
+#: includes/elementor/blocks/block_google_map.php:266
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:258
+msgid "Bottom Right (Default)"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:136
+msgid "Bounce"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:313
+msgid "Boxes"
+msgstr ""
+
+#: includes/elementor/blocks/block_page_title.php:98
+msgid "Breadcrumbs"
+msgstr ""
+
+#: includes/elementor/blocks/block_button.php:19
+#: includes/elementor/blocks/block_button.php:57
+msgid "Button"
+msgstr ""
+
+#: includes/elementor/blocks/block_button.php:149
+msgid "Button Effect"
+msgstr ""
+
+#: includes/elementor/blocks/block_button.php:158
+msgid "Button Rounded"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:274
+msgid "Button Size"
+msgstr ""
+
+#: includes/elementor/blocks/block_button.php:202
+msgid "Button Style"
+msgstr ""
+
+#: includes/elementor/blocks/block_phone_block.php:60
+#: includes/elementor/blocks/block_phone_block.php:197
+#: includes/elementor/blocks/block_video_button.php:80
+#: includes/elementor/blocks/block_simple_image.php:125
+msgid "Caption"
+msgstr ""
+
+#: includes/elementor/blocks/block_phone_block.php:222
+msgid "Caption Indent"
+msgstr ""
+
+#: includes/elementor/blocks/block_types_list.php:83
+#: includes/elementor/blocks/block_types_list.php:213
+#: includes/elementor/blocks/showcase/block_showcase_1.php:75
+#: includes/elementor/blocks/showcase/block_showcase_1.php:139
+#: includes/elementor/blocks/showcase/block_showcase_2.php:69
+#: includes/elementor/blocks/showcase/block_showcase_2.php:188
+#: includes/elementor/blocks/showcase/block_showcase_3.php:62
+#: includes/elementor/blocks/showcase/block_showcase_3.php:181
+#: includes/elementor/blocks/showcase/block_showcase_7.php:70
+#: includes/elementor/blocks/showcase/block_showcase_7.php:227
+#: includes/elementor/blocks/showcase/block_showcase_6.php:70
+#: includes/elementor/blocks/showcase/block_showcase_6.php:229
+#: includes/elementor/blocks/showcase/block_showcase_4.php:70
+#: includes/elementor/blocks/showcase/block_showcase_4.php:247
+#: includes/elementor/blocks/showcase/block_showcase_5.php:70
+#: includes/elementor/blocks/showcase/block_showcase_5.php:174
+#: includes/elementor/blocks/showcase/block_showcase_8.php:70
+#: includes/elementor/blocks/showcase/block_showcase_8.php:204
+#: includes/elementor/blocks/showcase/block_showcase_12.php:94
+#: includes/elementor/blocks/showcase/block_showcase_12.php:209
+#: includes/elementor/blocks/showcase/block_showcase_10.php:70
+#: includes/elementor/blocks/showcase/block_showcase_10.php:228
+msgid "Category"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_12.php:234
+msgid "Category Indent"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:134
+#: includes/elementor/blocks/block_simple_icon.php:132
+#: includes/elementor/blocks/block_phone_block.php:97
+#: includes/elementor/blocks/block_button.php:114
+#: includes/elementor/blocks/block_google_map.php:406
+#: includes/elementor/blocks/block_demo_item.php:133
+#: includes/elementor/blocks/block_video_button.php:257
+#: includes/elementor/blocks/block_social_icons.php:712
+#: includes/elementor/blocks/block_simple_link.php:98
+#: includes/elementor/blocks/block_service_box.php:118
+#: includes/elementor/blocks/block_pricing_table.php:236
+#: includes/elementor/blocks/block_page_title.php:130
+#: includes/elementor/blocks/block_slider_controls.php:131
+#: includes/elementor/blocks/block_section_title.php:123
+#: includes/elementor/blocks/block_action_block.php:88
+#: includes/elementor/blocks/block_pie_chart.php:119
+#: includes/elementor/blocks/block_fancy_text.php:236
+#: includes/elementor/blocks/block_testimonial.php:130
+#: includes/elementor/blocks/block_testimonial.php:528
+#: includes/elementor/blocks/block_countdown.php:367
+#: includes/elementor/blocks/block_simple_image.php:150
+#: includes/elementor/blocks/block_counter_up.php:146
+#: includes/elementor/blocks/block_heading.php:122
+#: includes/elementor/blocks/block_partner.php:103
+msgid "Center"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:113
+msgid "Centered Slides"
+msgstr ""
+
+#: includes/elementor/extensions/aos-animation/aos-animation.php:92
+msgid "Change the animation duration"
+msgstr ""
+
+#: includes/elementor/blocks/block_pie_chart.php:64
+msgid "Chart Value"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:124
+msgid "Child Theme:"
+msgstr ""
+
+#: includes/helper-functions.php:109
+msgid "Choose from the most used"
+msgstr ""
+
+#: includes/elementor/helper.php:111
+msgid "Choose Sidebar"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:209
+#: includes/elementor/blocks/block_template.php:66
+#: includes/elementor/blocks/block_content_marquee.php:62
+msgid "Choose Template"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_12.php:116
+#: includes/elementor/blocks/showcase/block_showcase_12.php:532
+msgid "Client"
+msgstr ""
+
+#: includes/elementor/blocks/block_phone_block.php:132
+#: includes/elementor/blocks/block_phone_block.php:212
+#: includes/elementor/blocks/block_phone_block.php:252
+#: includes/elementor/blocks/block_twitter_review.php:210
+#: includes/elementor/blocks/block_twitter_review.php:269
+#: includes/elementor/blocks/block_twitter_review.php:294
+#: includes/elementor/blocks/block_twitter_review.php:334
+#: includes/elementor/blocks/block_slider_progress.php:59
+#: includes/elementor/blocks/block_heading.php:207
+msgid "Color"
+msgstr ""
+
+#: includes/elementor/blocks/block_heading.php:205
+msgid "Color Dodge"
+msgstr ""
+
+#: includes/elementor/blocks/block_pie_chart.php:237
+msgid "Colors"
+msgstr ""
+
+#: includes/elementor/blocks/block_awards.php:308
+msgid "Column Gap"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:149
+msgid "Columns"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:174
+msgid "Columns Gap"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:205
+msgid "Comment count"
+msgstr ""
+
+#: includes/dashboard/templates/template-theme-options.php:23
+msgid "Configure Site Identity and design."
+msgstr ""
+
+#: includes/elementor/blocks/block_contact_form_7.php:21
+#: includes/elementor/blocks/block_contact_form_7.php:79
+msgid "Contact Form 7"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:114
+msgid "Container Width"
+msgstr ""
+
+#: includes/elementor/blocks/block_timeline.php:203
+#: includes/elementor/blocks/block_timeline.php:300
+#: includes/elementor/blocks/block_twitter_review.php:99
+#: includes/elementor/blocks/block_twitter_review.php:166
+#: includes/elementor/blocks/block_twitter_review.php:319
+#: includes/elementor/blocks/block_action_block.php:147
+#: includes/elementor/blocks/block_testimonial.php:94
+#: includes/elementor/blocks/block_testimonial.php:233
+#: includes/elementor/blocks/block_countdown.php:195
+#: includes/elementor/blocks/block_countdown.php:352
+#: includes/elementor/blocks/block_awards.php:337
+#: includes/elementor/blocks/block_types_list.php:117
+#: includes/elementor/blocks/showcase/block_showcase_2.php:170
+#: includes/elementor/blocks/showcase/block_showcase_3.php:163
+#: includes/elementor/blocks/showcase/block_showcase_7.php:130
+#: includes/elementor/blocks/showcase/block_showcase_6.php:140
+#: includes/elementor/blocks/showcase/block_showcase_4.php:140
+#: includes/elementor/blocks/showcase/block_showcase_5.php:156
+#: includes/elementor/blocks/showcase/block_showcase_8.php:118
+#: includes/elementor/blocks/showcase/block_showcase_9.php:89
+#: includes/elementor/blocks/showcase/block_showcase_12.php:124
+#: includes/elementor/blocks/showcase/block_showcase_12.php:252
+#: includes/elementor/blocks/showcase/block_showcase_12.php:364
+#: includes/elementor/blocks/showcase/block_showcase_10.php:156
+#: includes/elementor/blocks/showcase/block_showcase_11.php:119
+msgid "Content"
+msgstr ""
+
+#: includes/elementor/blocks/block_twitter_review.php:344
+msgid "Content Indent"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_marquee.php:21
+#: includes/elementor/blocks/block_content_marquee.php:43
+#: includes/elementor/blocks/block_content_marquee.php:74
+msgid "Content Marquee"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:21
+msgid "Content Slider"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:166
+#: includes/elementor/blocks/block_google_map.php:225
+msgid "Control Position"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:209
+msgid "Control Style"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:145
+msgid "Cooperative"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:19
+#: includes/elementor/blocks/block_countdown.php:41
+msgid "Countdown"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:154
+#: includes/elementor/blocks/block_progress_bar.php:336
+msgid "Counter"
+msgstr ""
+
+#: includes/elementor/blocks/block_pie_chart.php:83
+msgid "Counter HTML Tag"
+msgstr ""
+
+#: includes/elementor/blocks/block_counter_up.php:23
+#: includes/elementor/blocks/block_counter_up.php:45
+msgid "Counter Up"
+msgstr ""
+
+#: includes/elementor/helper.php:55
+msgid "Create a Form First"
+msgstr ""
+
+#: includes/elementor/helper.php:215
+msgid "Create a Template First"
+msgstr ""
+
+#: includes/dashboard/templates/template-helper.php:59
+msgid "Create a ticket"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:106
+msgid "Curency Symbol"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:373
+msgid "Currency"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:320
+msgid "Custom"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:232
+msgid "Custom Label for Days"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:254
+msgid "Custom Label for Hours"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:276
+msgid "Custom Label for Minutes"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:298
+msgid "Custom Label for Seconds"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:210
+msgid "Custom Label for Weeks"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:186
+msgid "Custom order"
+msgstr ""
+
+#: includes/elementor/blocks/block_simple_image.php:106
+msgid "Custom URL"
+msgstr ""
+
+#: includes/elementor/blocks/block_heading.php:203
+msgid "Darken"
+msgstr ""
+
+#: includes/elementor/blocks/block_timeline.php:62
+#: includes/elementor/blocks/block_timeline.php:232
+#: includes/elementor/blocks/block_content_slider.php:202
+#: includes/elementor/blocks/block_awards.php:70
+#: includes/elementor/blocks/block_awards.php:230
+#: includes/elementor/blocks/showcase/block_showcase_12.php:101
+#: includes/elementor/blocks/showcase/block_showcase_12.php:541
+msgid "Date"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:234
+msgid "Days"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:40
+#: includes/elementor/blocks/block_google_map.php:212
+#: includes/elementor/blocks/block_google_map.php:319
+#: includes/elementor/blocks/block_counter_up.php:198
+msgid "Default"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:189
+msgid "Default UI"
+msgstr ""
+
+#: includes/elementor/extensions/aos-animation/aos-animation.php:78
+msgid "Delay before the animation starts"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:191
+msgid "Delay on Change"
+msgstr ""
+
+#: includes/elementor/blocks/block_demo_item.php:19
+#: includes/elementor/blocks/block_demo_item.php:41
+msgid "Demo Item"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:220
+msgid "Descending"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:70
+#: includes/elementor/blocks/block_pricing_table.php:314
+#: includes/elementor/blocks/block_section_title.php:97
+#: includes/elementor/blocks/block_section_title.php:225
+#: includes/elementor/blocks/showcase/block_showcase_10.php:77
+msgid "Description"
+msgstr ""
+
+#: includes/elementor/blocks/block_section_title.php:250
+msgid "Description Indent"
+msgstr ""
+
+#: includes/elementor/blocks/block_heading.php:208
+msgid "Difference"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:384
+msgid "Digits"
+msgstr ""
+
+#: includes/elementor/blocks/block_button.php:140
+msgid "Disable Button"
+msgstr ""
+
+#: includes/elementor/blocks/block_alert_message.php:68
+msgid "Dismiss Button"
+msgstr ""
+
+#: includes/elementor/blocks/block_alert_message.php:171
+msgid "Dismiss Button Color"
+msgstr ""
+
+#: includes/elementor/blocks/block_heading.php:37
+msgid "Display 1"
+msgstr ""
+
+#: includes/elementor/blocks/block_heading.php:38
+msgid "Display 2"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:160
+#: includes/elementor/blocks/block_pie_chart.php:102
+msgid "Display Count"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:222
+msgid "Display Days"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:244
+msgid "Display Hours"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:266
+msgid "Display Minutes"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:288
+msgid "Display Seconds"
+msgstr ""
+
+#: includes/elementor/blocks/block_heading.php:96
+msgid "Display Title"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:167
+msgid "Display Type Cursor"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:201
+msgid "Display Weeks"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:94
+msgid "Distance between slides."
+msgstr ""
+
+#: includes/elementor/extensions/aos-animation/aos-animation.php:108
+msgid "Distance to start the animation (related to the browser bottom)"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:98
+#: includes/elementor/blocks/block_timeline.php:324
+#: includes/elementor/blocks/block_demo_item.php:116
+#: includes/elementor/blocks/block_service_box.php:179
+#: includes/elementor/blocks/block_pricing_table.php:88
+#: includes/elementor/blocks/block_page_title.php:173
+#: includes/elementor/blocks/block_section_title.php:88
+#: includes/elementor/blocks/block_twitter_review.php:253
+#: includes/elementor/blocks/block_pie_chart.php:93
+#: includes/elementor/blocks/block_fancy_text.php:219
+#: includes/elementor/blocks/block_testimonial.php:371
+#: includes/elementor/blocks/block_counter_up.php:112
+#: includes/elementor/blocks/block_awards.php:361
+#: includes/elementor/blocks/block_types_list.php:187
+#: includes/elementor/blocks/block_heading.php:87
+#: includes/elementor/blocks/showcase/block_showcase_1.php:192
+#: includes/elementor/blocks/showcase/block_showcase_2.php:242
+#: includes/elementor/blocks/showcase/block_showcase_3.php:235
+#: includes/elementor/blocks/showcase/block_showcase_7.php:190
+#: includes/elementor/blocks/showcase/block_showcase_6.php:192
+#: includes/elementor/blocks/showcase/block_showcase_4.php:210
+#: includes/elementor/blocks/showcase/block_showcase_5.php:228
+#: includes/elementor/blocks/showcase/block_showcase_8.php:167
+#: includes/elementor/blocks/showcase/block_showcase_9.php:130
+#: includes/elementor/blocks/showcase/block_showcase_12.php:183
+#: includes/elementor/blocks/showcase/block_showcase_10.php:282
+#: includes/elementor/blocks/showcase/block_showcase_11.php:161
+msgid "div"
+msgstr ""
+
+#: includes/dashboard/templates/template-helper.php:36
+msgid "Documentation"
+msgstr ""
+
+#: includes/elementor/blocks/block_timeline.php:156
+#: includes/elementor/blocks/block_counter_up.php:199
+#: includes/elementor/blocks/block_awards.php:202
+msgid "Dot"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:41
+msgid "Dotted"
+msgstr ""
+
+#: includes/elementor/blocks/block_awards.php:436
+msgid "Drag"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:214
+msgid "Dropdown Menu"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:60
+msgid "Due Date"
+msgstr ""
+
+#: includes/helper-functions.php:104
+msgid "Edit Item"
+msgstr ""
+
+#: includes/helper-functions.php:56
+msgid "Edit Slide"
+msgstr ""
+
+#: includes/dashboard/theme-activation/theme-activation.php:168
+msgid "Email Address"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:118
+msgid "End Time"
+msgstr ""
+
+#: includes/elementor/blocks/block_counter_up.php:84
+msgid "Ending Number"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:122
+#: includes/elementor/blocks/showcase/block_showcase_1.php:121
+#: includes/elementor/blocks/showcase/block_showcase_2.php:128
+#: includes/elementor/blocks/showcase/block_showcase_3.php:121
+#: includes/elementor/blocks/showcase/block_showcase_5.php:114
+#: includes/elementor/blocks/showcase/block_showcase_8.php:107
+#: includes/elementor/blocks/showcase/block_showcase_10.php:114
+msgid "Enter class / identifier that the navigation has."
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:72
+#: includes/elementor/blocks/block_section_title.php:99
+msgid "Enter your description"
+msgstr ""
+
+#: includes/dashboard/templates/template-activate.php:24
+#, php-format
+msgid ""
+"Enter your license key here, to activate the %s, and get full feature "
+"updates and premium support."
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:61
+msgid "Enter your prefix text"
+msgstr ""
+
+#: includes/elementor/blocks/block_section_title.php:62
+msgid "Enter your subtitle"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:104
+msgid "Enter your suffix text"
+msgstr ""
+
+#: includes/elementor/blocks/block_section_title.php:70
+#: includes/elementor/blocks/block_heading.php:70
+msgid "Enter your title"
+msgstr ""
+
+#: includes/elementor/blocks/block_heading.php:209
+msgid "Exclusion"
+msgstr ""
+
+#: includes/elementor/blocks/block_button.php:36
+msgid "Extra Small"
+msgstr ""
+
+#: includes/helper-functions.php:13
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:130
+msgid "Fade"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:132
+msgid "Fade Down"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:133
+msgid "Fade Left"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:134
+msgid "Fade Right"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:131
+msgid "Fade Up"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:19
+#: includes/elementor/blocks/block_fancy_text.php:41
+msgid "Fancy Text"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:286
+msgid "Fancy Text Styles"
+msgstr ""
+
+#: includes/vendors/featured-post/featured-post.php:64
+#: includes/vendors/featured-post/featured-post.php:70
+msgid "Featured"
+msgstr ""
+
+#: includes/vendors/featured-post/featured-post.php:161
+msgid "Featured?"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:153
+#: includes/elementor/blocks/block_pricing_table.php:656
+msgid "Features"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:735
+msgid "Features Indent"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:718
+msgid "Features List Indent"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:107
+msgid "Final Value"
+msgstr ""
+
+#: includes/elementor/blocks/block_slider_fixed_bar.php:587
+msgid "Fixed"
+msgstr ""
+
+#: includes/elementor/blocks/block_slider_fixed_bar.php:675
+msgid "Fixed Bar Style"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:203
+#: includes/elementor/blocks/block_pricing_table.php:754
+msgid "Footer"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:761
+msgid "Footer Indent"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:368
+#, php-format
+msgid ""
+"For normal usage will be enough 180M, but for importing demo we recommend "
+"setting memory to at least %s."
+msgstr ""
+
+#: includes/elementor/blocks/block_slider_controls.php:66
+msgid "Fraction"
+msgstr ""
+
+#: includes/elementor/blocks/block_button.php:131
+msgid "Full Width"
+msgstr ""
+
+#: includes/elementor/blocks/block_team_member.php:96
+#: includes/elementor/blocks/block_team_member.php:236
+#: includes/elementor/blocks/block_testimonial.php:86
+#: includes/elementor/blocks/block_testimonial.php:432
+msgid "Function"
+msgstr ""
+
+#: includes/elementor/blocks/block_testimonial.php:491
+msgid "Function Indent"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:88
+#: includes/elementor/blocks/block_simple_image.php:136
+msgid "Gallery ID"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:93
+msgid "Gap"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:225
+#: includes/elementor/blocks/block_timeline.php:132
+#: includes/elementor/blocks/block_video_button.php:242
+#: includes/elementor/blocks/block_action_block.php:108
+#: includes/elementor/blocks/block_pie_chart.php:189
+#: includes/elementor/blocks/block_styled_list.php:111
+#: includes/elementor/blocks/block_alert_message.php:82
+#: includes/elementor/blocks/block_counter_up.php:213
+#: includes/elementor/blocks/block_awards.php:178
+#: includes/elementor/blocks/block_types_list.php:124
+msgid "General"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:141
+msgid "Gesture Handling"
+msgstr ""
+
+#: includes/dashboard/templates/template-welcome.php:12
+#, php-format
+msgid "Getting started with %1$s v%2$s"
+msgstr ""
+
+#: includes/elementor/blocks/block_team_member.php:50
+#: includes/elementor/blocks/block_progress_bar.php:61
+#: includes/elementor/blocks/block_simple_icon.php:50
+#: includes/elementor/blocks/block_timeline.php:50
+#: includes/elementor/blocks/block_phone_block.php:50
+#: includes/elementor/blocks/block_button.php:66
+#: includes/elementor/blocks/block_google_map.php:54
+#: includes/elementor/blocks/block_demo_item.php:50
+#: includes/elementor/blocks/block_video_button.php:58
+#: includes/elementor/blocks/block_social_icons.php:613
+#: includes/elementor/blocks/block_simple_link.php:50
+#: includes/elementor/blocks/block_service_box.php:50
+#: includes/elementor/blocks/block_pricing_table.php:52
+#: includes/elementor/blocks/block_page_title.php:50
+#: includes/elementor/blocks/block_slider_controls.php:50
+#: includes/elementor/blocks/block_contact_form_7.php:54
+#: includes/elementor/blocks/block_contact_form_7.php:88
+#: includes/elementor/blocks/block_template.php:56
+#: includes/elementor/blocks/block_section_title.php:50
+#: includes/elementor/blocks/block_content_slider.php:52
+#: includes/elementor/blocks/block_twitter_review.php:50
+#: includes/elementor/blocks/block_images_compare.php:50
+#: includes/elementor/blocks/block_action_block.php:50
+#: includes/elementor/blocks/block_pie_chart.php:54
+#: includes/elementor/blocks/block_content_marquee.php:52
+#: includes/elementor/blocks/block_styled_list.php:50
+#: includes/elementor/blocks/block_alert_message.php:50
+#: includes/elementor/blocks/block_justified_gallery.php:50
+#: includes/elementor/blocks/block_fancy_text.php:50
+#: includes/elementor/blocks/block_mask_image.php:50
+#: includes/elementor/blocks/block_testimonial.php:50
+#: includes/elementor/blocks/block_slider_fixed_bar.php:572
+#: includes/elementor/blocks/block_countdown.php:50
+#: includes/elementor/blocks/block_simple_image.php:50
+#: includes/elementor/blocks/block_counter_up.php:54
+#: includes/elementor/blocks/block_awards.php:58
+#: includes/elementor/blocks/block_types_list.php:50
+#: includes/elementor/blocks/block_heading.php:58
+#: includes/elementor/blocks/block_marquee_text.php:50
+#: includes/elementor/blocks/block_partner.php:50
+#: includes/elementor/blocks/showcase/block_showcase_1.php:50
+#: includes/elementor/blocks/showcase/block_showcase_2.php:50
+#: includes/elementor/blocks/showcase/block_showcase_3.php:50
+#: includes/elementor/blocks/showcase/block_showcase_7.php:50
+#: includes/elementor/blocks/showcase/block_showcase_6.php:50
+#: includes/elementor/blocks/showcase/block_showcase_4.php:50
+#: includes/elementor/blocks/showcase/block_showcase_5.php:50
+#: includes/elementor/blocks/showcase/block_showcase_8.php:50
+#: includes/elementor/blocks/showcase/block_showcase_12.php:50
+#: includes/elementor/blocks/showcase/block_showcase_10.php:50
+#: includes/elementor/blocks/showcase/block_showcase_11.php:50
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">License Info</a> to activate."
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:23
+#: includes/elementor/blocks/block_google_map.php:45
+msgid "Google Map"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:146
+msgid "Greedy"
+msgstr ""
+
+#: includes/elementor/blocks/block_awards.php:285
+msgid "Grid"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:43
+#: includes/elementor/blocks/block_pricing_table.php:283
+msgid "Header"
+msgstr ""
+
+#: includes/elementor/blocks/block_section_title.php:150
+#: includes/elementor/blocks/block_heading.php:19
+msgid "Heading"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:92
+#: includes/elementor/blocks/block_timeline.php:318
+#: includes/elementor/blocks/block_demo_item.php:110
+#: includes/elementor/blocks/block_service_box.php:173
+#: includes/elementor/blocks/block_pricing_table.php:82
+#: includes/elementor/blocks/block_page_title.php:167
+#: includes/elementor/blocks/block_section_title.php:82
+#: includes/elementor/blocks/block_twitter_review.php:247
+#: includes/elementor/blocks/block_pie_chart.php:87
+#: includes/elementor/blocks/block_fancy_text.php:213
+#: includes/elementor/blocks/block_testimonial.php:365
+#: includes/elementor/blocks/block_counter_up.php:106
+#: includes/elementor/blocks/block_awards.php:355
+#: includes/elementor/blocks/block_types_list.php:181
+#: includes/elementor/blocks/block_heading.php:81
+#: includes/elementor/blocks/showcase/block_showcase_1.php:186
+#: includes/elementor/blocks/showcase/block_showcase_2.php:236
+#: includes/elementor/blocks/showcase/block_showcase_3.php:229
+#: includes/elementor/blocks/showcase/block_showcase_7.php:184
+#: includes/elementor/blocks/showcase/block_showcase_6.php:186
+#: includes/elementor/blocks/showcase/block_showcase_4.php:204
+#: includes/elementor/blocks/showcase/block_showcase_5.php:222
+#: includes/elementor/blocks/showcase/block_showcase_8.php:161
+#: includes/elementor/blocks/showcase/block_showcase_9.php:124
+#: includes/elementor/blocks/showcase/block_showcase_12.php:177
+#: includes/elementor/blocks/showcase/block_showcase_10.php:276
+#: includes/elementor/blocks/showcase/block_showcase_11.php:155
+msgid "Heading 1"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:93
+#: includes/elementor/blocks/block_timeline.php:319
+#: includes/elementor/blocks/block_demo_item.php:111
+#: includes/elementor/blocks/block_service_box.php:174
+#: includes/elementor/blocks/block_pricing_table.php:83
+#: includes/elementor/blocks/block_page_title.php:168
+#: includes/elementor/blocks/block_section_title.php:83
+#: includes/elementor/blocks/block_twitter_review.php:248
+#: includes/elementor/blocks/block_pie_chart.php:88
+#: includes/elementor/blocks/block_fancy_text.php:214
+#: includes/elementor/blocks/block_testimonial.php:366
+#: includes/elementor/blocks/block_counter_up.php:107
+#: includes/elementor/blocks/block_awards.php:356
+#: includes/elementor/blocks/block_types_list.php:182
+#: includes/elementor/blocks/block_heading.php:82
+#: includes/elementor/blocks/showcase/block_showcase_1.php:187
+#: includes/elementor/blocks/showcase/block_showcase_2.php:237
+#: includes/elementor/blocks/showcase/block_showcase_3.php:230
+#: includes/elementor/blocks/showcase/block_showcase_7.php:185
+#: includes/elementor/blocks/showcase/block_showcase_6.php:187
+#: includes/elementor/blocks/showcase/block_showcase_4.php:205
+#: includes/elementor/blocks/showcase/block_showcase_5.php:223
+#: includes/elementor/blocks/showcase/block_showcase_8.php:162
+#: includes/elementor/blocks/showcase/block_showcase_9.php:125
+#: includes/elementor/blocks/showcase/block_showcase_12.php:178
+#: includes/elementor/blocks/showcase/block_showcase_10.php:277
+#: includes/elementor/blocks/showcase/block_showcase_11.php:156
+msgid "Heading 2"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:94
+#: includes/elementor/blocks/block_timeline.php:320
+#: includes/elementor/blocks/block_demo_item.php:112
+#: includes/elementor/blocks/block_service_box.php:175
+#: includes/elementor/blocks/block_pricing_table.php:84
+#: includes/elementor/blocks/block_page_title.php:169
+#: includes/elementor/blocks/block_section_title.php:84
+#: includes/elementor/blocks/block_twitter_review.php:249
+#: includes/elementor/blocks/block_pie_chart.php:89
+#: includes/elementor/blocks/block_fancy_text.php:215
+#: includes/elementor/blocks/block_testimonial.php:367
+#: includes/elementor/blocks/block_counter_up.php:108
+#: includes/elementor/blocks/block_awards.php:357
+#: includes/elementor/blocks/block_types_list.php:183
+#: includes/elementor/blocks/block_heading.php:83
+#: includes/elementor/blocks/showcase/block_showcase_1.php:188
+#: includes/elementor/blocks/showcase/block_showcase_2.php:238
+#: includes/elementor/blocks/showcase/block_showcase_3.php:231
+#: includes/elementor/blocks/showcase/block_showcase_7.php:186
+#: includes/elementor/blocks/showcase/block_showcase_6.php:188
+#: includes/elementor/blocks/showcase/block_showcase_4.php:206
+#: includes/elementor/blocks/showcase/block_showcase_5.php:224
+#: includes/elementor/blocks/showcase/block_showcase_8.php:163
+#: includes/elementor/blocks/showcase/block_showcase_9.php:126
+#: includes/elementor/blocks/showcase/block_showcase_12.php:179
+#: includes/elementor/blocks/showcase/block_showcase_10.php:278
+#: includes/elementor/blocks/showcase/block_showcase_11.php:157
+msgid "Heading 3"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:95
+#: includes/elementor/blocks/block_timeline.php:321
+#: includes/elementor/blocks/block_demo_item.php:113
+#: includes/elementor/blocks/block_service_box.php:176
+#: includes/elementor/blocks/block_pricing_table.php:85
+#: includes/elementor/blocks/block_page_title.php:170
+#: includes/elementor/blocks/block_section_title.php:85
+#: includes/elementor/blocks/block_twitter_review.php:250
+#: includes/elementor/blocks/block_pie_chart.php:90
+#: includes/elementor/blocks/block_fancy_text.php:216
+#: includes/elementor/blocks/block_testimonial.php:368
+#: includes/elementor/blocks/block_counter_up.php:109
+#: includes/elementor/blocks/block_awards.php:358
+#: includes/elementor/blocks/block_types_list.php:184
+#: includes/elementor/blocks/block_heading.php:84
+#: includes/elementor/blocks/showcase/block_showcase_1.php:189
+#: includes/elementor/blocks/showcase/block_showcase_2.php:239
+#: includes/elementor/blocks/showcase/block_showcase_3.php:232
+#: includes/elementor/blocks/showcase/block_showcase_7.php:187
+#: includes/elementor/blocks/showcase/block_showcase_6.php:189
+#: includes/elementor/blocks/showcase/block_showcase_4.php:207
+#: includes/elementor/blocks/showcase/block_showcase_5.php:225
+#: includes/elementor/blocks/showcase/block_showcase_8.php:164
+#: includes/elementor/blocks/showcase/block_showcase_9.php:127
+#: includes/elementor/blocks/showcase/block_showcase_12.php:180
+#: includes/elementor/blocks/showcase/block_showcase_10.php:279
+#: includes/elementor/blocks/showcase/block_showcase_11.php:158
+msgid "Heading 4"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:96
+#: includes/elementor/blocks/block_timeline.php:322
+#: includes/elementor/blocks/block_demo_item.php:114
+#: includes/elementor/blocks/block_service_box.php:177
+#: includes/elementor/blocks/block_pricing_table.php:86
+#: includes/elementor/blocks/block_page_title.php:171
+#: includes/elementor/blocks/block_section_title.php:86
+#: includes/elementor/blocks/block_twitter_review.php:251
+#: includes/elementor/blocks/block_pie_chart.php:91
+#: includes/elementor/blocks/block_fancy_text.php:217
+#: includes/elementor/blocks/block_testimonial.php:369
+#: includes/elementor/blocks/block_counter_up.php:110
+#: includes/elementor/blocks/block_awards.php:359
+#: includes/elementor/blocks/block_types_list.php:185
+#: includes/elementor/blocks/block_heading.php:85
+#: includes/elementor/blocks/showcase/block_showcase_1.php:190
+#: includes/elementor/blocks/showcase/block_showcase_2.php:240
+#: includes/elementor/blocks/showcase/block_showcase_3.php:233
+#: includes/elementor/blocks/showcase/block_showcase_7.php:188
+#: includes/elementor/blocks/showcase/block_showcase_6.php:190
+#: includes/elementor/blocks/showcase/block_showcase_4.php:208
+#: includes/elementor/blocks/showcase/block_showcase_5.php:226
+#: includes/elementor/blocks/showcase/block_showcase_8.php:165
+#: includes/elementor/blocks/showcase/block_showcase_9.php:128
+#: includes/elementor/blocks/showcase/block_showcase_12.php:181
+#: includes/elementor/blocks/showcase/block_showcase_10.php:280
+#: includes/elementor/blocks/showcase/block_showcase_11.php:159
+msgid "Heading 5"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:97
+#: includes/elementor/blocks/block_timeline.php:323
+#: includes/elementor/blocks/block_demo_item.php:115
+#: includes/elementor/blocks/block_service_box.php:178
+#: includes/elementor/blocks/block_pricing_table.php:87
+#: includes/elementor/blocks/block_page_title.php:172
+#: includes/elementor/blocks/block_section_title.php:87
+#: includes/elementor/blocks/block_twitter_review.php:252
+#: includes/elementor/blocks/block_pie_chart.php:92
+#: includes/elementor/blocks/block_fancy_text.php:218
+#: includes/elementor/blocks/block_testimonial.php:370
+#: includes/elementor/blocks/block_counter_up.php:111
+#: includes/elementor/blocks/block_awards.php:360
+#: includes/elementor/blocks/block_types_list.php:186
+#: includes/elementor/blocks/block_heading.php:86
+#: includes/elementor/blocks/showcase/block_showcase_1.php:191
+#: includes/elementor/blocks/showcase/block_showcase_2.php:241
+#: includes/elementor/blocks/showcase/block_showcase_3.php:234
+#: includes/elementor/blocks/showcase/block_showcase_7.php:189
+#: includes/elementor/blocks/showcase/block_showcase_6.php:191
+#: includes/elementor/blocks/showcase/block_showcase_4.php:209
+#: includes/elementor/blocks/showcase/block_showcase_5.php:227
+#: includes/elementor/blocks/showcase/block_showcase_8.php:166
+#: includes/elementor/blocks/showcase/block_showcase_9.php:129
+#: includes/elementor/blocks/showcase/block_showcase_12.php:182
+#: includes/elementor/blocks/showcase/block_showcase_10.php:281
+#: includes/elementor/blocks/showcase/block_showcase_11.php:160
+msgid "Heading 6"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:232
+#: includes/elementor/blocks/block_google_map.php:101
+#: includes/elementor/blocks/block_pie_chart.php:196
+#: includes/elementor/blocks/showcase/block_showcase_2.php:146
+#: includes/elementor/blocks/showcase/block_showcase_3.php:139
+#: includes/elementor/blocks/showcase/block_showcase_6.php:116
+#: includes/elementor/blocks/showcase/block_showcase_4.php:116
+#: includes/elementor/blocks/showcase/block_showcase_5.php:132
+#: includes/elementor/blocks/showcase/block_showcase_10.php:132
+msgid "Height"
+msgstr ""
+
+#. page title
+#: includes/dashboard/dashboard.php:127 includes/dashboard/dashboard.php:128
+msgid "Help Center"
+msgstr ""
+
+#: includes/elementor/blocks/block_alert_message.php:71
+#: includes/elementor/blocks/block_countdown.php:71
+#: includes/elementor/blocks/block_counter_up.php:188
+msgid "Hide"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:346
+msgid "Home Url:"
+msgstr ""
+
+#: includes/elementor/blocks/block_slider_progress.php:51
+msgid "Horizontal"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:213
+msgid "Horizontal Bar"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:256
+msgid "Hours"
+msgstr ""
+
+#: includes/elementor/blocks/block_button.php:258
+#: includes/elementor/blocks/block_video_button.php:369
+#: includes/elementor/blocks/block_social_icons.php:764
+#: includes/elementor/blocks/block_simple_link.php:147
+#: includes/elementor/blocks/block_simple_image.php:265
+#: includes/elementor/blocks/block_partner.php:167
+#: includes/elementor/blocks/showcase/block_showcase_10.php:208
+msgid "Hover"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:389
+msgid "How to disable WP_DEBUG mode."
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:88
+#: includes/elementor/blocks/block_timeline.php:314
+#: includes/elementor/blocks/block_demo_item.php:106
+#: includes/elementor/blocks/block_service_box.php:169
+#: includes/elementor/blocks/block_pricing_table.php:78
+#: includes/elementor/blocks/block_page_title.php:163
+#: includes/elementor/blocks/block_section_title.php:78
+#: includes/elementor/blocks/block_twitter_review.php:243
+#: includes/elementor/blocks/block_fancy_text.php:209
+#: includes/elementor/blocks/block_testimonial.php:361
+#: includes/elementor/blocks/block_counter_up.php:102
+#: includes/elementor/blocks/block_awards.php:351
+#: includes/elementor/blocks/block_types_list.php:177
+#: includes/elementor/blocks/block_heading.php:77
+#: includes/elementor/blocks/showcase/block_showcase_1.php:182
+#: includes/elementor/blocks/showcase/block_showcase_2.php:232
+#: includes/elementor/blocks/showcase/block_showcase_3.php:225
+#: includes/elementor/blocks/showcase/block_showcase_7.php:180
+#: includes/elementor/blocks/showcase/block_showcase_6.php:182
+#: includes/elementor/blocks/showcase/block_showcase_4.php:200
+#: includes/elementor/blocks/showcase/block_showcase_5.php:218
+#: includes/elementor/blocks/showcase/block_showcase_8.php:157
+#: includes/elementor/blocks/showcase/block_showcase_9.php:120
+#: includes/elementor/blocks/showcase/block_showcase_12.php:173
+#: includes/elementor/blocks/showcase/block_showcase_10.php:272
+#: includes/elementor/blocks/showcase/block_showcase_11.php:151
+msgid "HTML Tag"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://themeforest.net/user/sodathemes"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://sodathemes.me"
+msgstr ""
+
+#: includes/elementor/blocks/block_heading.php:210
+msgid "Hue"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:131
+msgid "Hybrid"
+msgstr ""
+
+#: includes/elementor/blocks/block_team_member.php:141
+#: includes/elementor/blocks/block_simple_icon.php:64
+#: includes/elementor/blocks/block_simple_icon.php:73
+#: includes/elementor/blocks/block_simple_icon.php:93
+#: includes/elementor/blocks/block_phone_block.php:125
+#: includes/elementor/blocks/block_button.php:176
+#: includes/elementor/blocks/block_pricing_table.php:680
+#: includes/elementor/blocks/block_slider_controls.php:77
+#: includes/elementor/blocks/block_twitter_review.php:201
+#: includes/elementor/blocks/block_styled_list.php:158
+msgid "Icon"
+msgstr ""
+
+#: includes/elementor/blocks/block_styled_list.php:182
+msgid "Icon Background Color"
+msgstr ""
+
+#: includes/elementor/blocks/block_simple_icon.php:66
+#: includes/elementor/blocks/block_simple_icon.php:103
+#: includes/elementor/blocks/block_twitter_review.php:73
+msgid "Icon Class"
+msgstr ""
+
+#: includes/elementor/blocks/block_simple_icon.php:165
+#: includes/elementor/blocks/block_social_icons.php:751
+#: includes/elementor/blocks/block_social_icons.php:770
+#: includes/elementor/blocks/block_pricing_table.php:688
+#: includes/elementor/blocks/block_styled_list.php:169
+msgid "Icon Color"
+msgstr ""
+
+#: includes/elementor/blocks/block_phone_block.php:152
+msgid "Icon Height"
+msgstr ""
+
+#: includes/elementor/blocks/block_simple_icon.php:65
+msgid "Icon Image"
+msgstr ""
+
+#: includes/elementor/blocks/block_phone_block.php:182
+msgid "Icon Indent"
+msgstr ""
+
+#: includes/elementor/blocks/block_button.php:184
+msgid "Icon Position"
+msgstr ""
+
+#: includes/elementor/blocks/block_simple_icon.php:148
+#: includes/elementor/blocks/block_phone_block.php:167
+#: includes/elementor/blocks/block_video_button.php:293
+#: includes/elementor/blocks/block_twitter_review.php:220
+msgid "Icon Size"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:201
+msgid "ID"
+msgstr ""
+
+#: includes/vendors/featured-post/featured-post.php:160
+msgid "If checked, this is marked as featured."
+msgstr ""
+
+#: includes/dashboard/templates/template-helper.php:26
+msgid ""
+"If you did not find an answer to your question, feel free to contact us."
+msgstr ""
+
+#: includes/dashboard/templates/template-helper.php:58
+msgid ""
+"If you did not find an answer to your question, submit a ticket with well "
+"describe your issue."
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:147
+msgid ""
+"If you want to get full feature updates and premium support you should "
+"activate the theme."
+msgstr ""
+
+#: includes/elementor/blocks/block_team_member.php:74
+#: includes/elementor/blocks/block_demo_item.php:60
+#: includes/elementor/blocks/block_service_box.php:60
+#: includes/elementor/blocks/block_service_box.php:134
+#: includes/elementor/blocks/block_page_title.php:73
+#: includes/elementor/blocks/block_mask_image.php:62
+#: includes/elementor/blocks/block_simple_image.php:60
+#: includes/elementor/blocks/block_types_list.php:62
+#: includes/elementor/blocks/block_partner.php:60
+#: includes/elementor/blocks/showcase/block_showcase_1.php:62
+#: includes/elementor/blocks/showcase/block_showcase_2.php:84
+#: includes/elementor/blocks/showcase/block_showcase_3.php:84
+#: includes/elementor/blocks/showcase/block_showcase_7.php:84
+#: includes/elementor/blocks/showcase/block_showcase_6.php:77
+#: includes/elementor/blocks/showcase/block_showcase_4.php:77
+#: includes/elementor/blocks/showcase/block_showcase_5.php:77
+#: includes/elementor/blocks/showcase/block_showcase_8.php:77
+#: includes/elementor/blocks/showcase/block_showcase_9.php:57
+#: includes/elementor/blocks/showcase/block_showcase_12.php:62
+#: includes/elementor/blocks/showcase/block_showcase_10.php:84
+#: includes/elementor/blocks/showcase/block_showcase_11.php:70
+msgid "Image"
+msgstr ""
+
+#: includes/elementor/blocks/block_twitter_review.php:120
+#: includes/elementor/blocks/block_testimonial.php:305
+#: includes/elementor/blocks/block_partner.php:117
+msgid "Image Height"
+msgstr ""
+
+#: includes/elementor/blocks/block_twitter_review.php:148
+msgid "Image Indent"
+msgstr ""
+
+#: includes/elementor/blocks/block_simple_image.php:220
+msgid "Image Link"
+msgstr ""
+
+#: includes/elementor/blocks/block_simple_image.php:197
+#: includes/elementor/blocks/showcase/block_showcase_7.php:91
+msgid "Image Mask"
+msgstr ""
+
+#: includes/elementor/blocks/block_types_list.php:151
+#: includes/elementor/blocks/block_partner.php:147
+#: includes/elementor/blocks/block_partner.php:173
+msgid "Image Opacity"
+msgstr ""
+
+#: includes/elementor/blocks/block_mask_image.php:89
+msgid "Images"
+msgstr ""
+
+#: includes/elementor/blocks/block_images_compare.php:19
+#: includes/elementor/blocks/block_images_compare.php:41
+msgid "Images Compare"
+msgstr ""
+
+#: includes/dashboard/theme-activation/theme-activation.php:148
+#, php-format
+msgid ""
+"In order to activate your copy of %s, you should input your purchase code "
+"and email address, and thus effectively register the theme."
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:229
+msgid "Increasing max execution to PHP"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:371
+msgid "Increasing memory allocated to PHP."
+msgstr ""
+
+#: includes/elementor/blocks/block_twitter_review.php:90
+#: includes/elementor/blocks/block_twitter_review.php:279
+msgid "Info"
+msgstr ""
+
+#: includes/elementor/blocks/block_twitter_review.php:304
+msgid "Info Indent"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:375
+msgid "Info Window"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:84
+msgid "Inline"
+msgstr ""
+
+#: includes/helper-functions.php:14
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/dashboard/theme-activation/theme-activation.php:99
+msgid "Invalid"
+msgstr ""
+
+#: includes/elementor/blocks/block_social_icons.php:637
+msgid "Is Share?"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_1.php:132
+msgid "Item"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_7.php:148
+#: includes/elementor/blocks/showcase/block_showcase_12.php:131
+msgid "Items"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_7.php:156
+#: includes/elementor/blocks/showcase/block_showcase_9.php:96
+#: includes/elementor/blocks/showcase/block_showcase_12.php:149
+#: includes/elementor/blocks/showcase/block_showcase_11.php:126
+msgid "Items Indent"
+msgstr ""
+
+#: includes/helper-functions.php:114
+msgid "Items list"
+msgstr ""
+
+#: includes/helper-functions.php:115
+msgid "Items list navigation"
+msgstr ""
+
+#: includes/elementor/blocks/block_justified_gallery.php:19
+#: includes/elementor/blocks/block_justified_gallery.php:41
+msgid "Justified Gallery"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:414
+msgid "Justify"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:207
+#: includes/elementor/blocks/block_video_button.php:409
+#: includes/elementor/blocks/block_countdown.php:68
+#: includes/elementor/blocks/block_countdown.php:409
+msgid "Label"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:94
+msgid "Label Indent"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:217
+#: includes/elementor/blocks/block_countdown.php:79
+msgid "Label Position"
+msgstr ""
+
+#: includes/elementor/blocks/block_button.php:39
+msgid "Large"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:64
+#: includes/elementor/blocks/block_google_map.php:300
+msgid "Latitude"
+msgstr ""
+
+#: includes/elementor/blocks/block_pie_chart.php:45
+#: includes/elementor/blocks/block_slider_fixed_bar.php:613
+msgid "Layout"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:213
+#: includes/elementor/blocks/block_countdown.php:235
+#: includes/elementor/blocks/block_countdown.php:257
+#: includes/elementor/blocks/block_countdown.php:279
+#: includes/elementor/blocks/block_countdown.php:301
+msgid "Leave blank to hide"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:130
+#: includes/elementor/blocks/block_simple_icon.php:128
+#: includes/elementor/blocks/block_phone_block.php:93
+#: includes/elementor/blocks/block_button.php:110
+#: includes/elementor/blocks/block_google_map.php:402
+#: includes/elementor/blocks/block_demo_item.php:129
+#: includes/elementor/blocks/block_video_button.php:253
+#: includes/elementor/blocks/block_social_icons.php:708
+#: includes/elementor/blocks/block_simple_link.php:94
+#: includes/elementor/blocks/block_service_box.php:114
+#: includes/elementor/blocks/block_pricing_table.php:232
+#: includes/elementor/blocks/block_page_title.php:126
+#: includes/elementor/blocks/block_slider_controls.php:127
+#: includes/elementor/blocks/block_section_title.php:119
+#: includes/elementor/blocks/block_action_block.php:84
+#: includes/elementor/blocks/block_pie_chart.php:115
+#: includes/elementor/blocks/block_fancy_text.php:232
+#: includes/elementor/blocks/block_testimonial.php:126
+#: includes/elementor/blocks/block_testimonial.php:524
+#: includes/elementor/blocks/block_slider_fixed_bar.php:599
+#: includes/elementor/blocks/block_countdown.php:363
+#: includes/elementor/blocks/block_simple_image.php:149
+#: includes/elementor/blocks/block_counter_up.php:142
+#: includes/elementor/blocks/block_heading.php:118
+#: includes/elementor/blocks/block_partner.php:99
+msgid "Left"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:173
+#: includes/elementor/blocks/block_google_map.php:231
+#: includes/elementor/blocks/block_google_map.php:262
+msgid "Left Center"
+msgstr ""
+
+#: includes/dashboard/theme-activation/theme-activation.php:163
+msgid "License code"
+msgstr ""
+
+#: includes/dashboard/theme-activation/theme-activation.php:109
+msgid "License Expired on:"
+msgstr ""
+
+#: includes/dashboard/theme-activation/theme-activation.php:105
+msgid "License Type:"
+msgstr ""
+
+#: includes/elementor/blocks/block_heading.php:204
+msgid "Lighten"
+msgstr ""
+
+#: includes/elementor/blocks/block_timeline.php:139
+#: includes/elementor/blocks/block_awards.php:185
+msgid "Line"
+msgstr ""
+
+#: includes/elementor/blocks/block_types_list.php:131
+msgid "Lines Color"
+msgstr ""
+
+#: includes/elementor/blocks/block_team_member.php:162
+#: includes/elementor/blocks/block_timeline.php:83
+#: includes/elementor/blocks/block_phone_block.php:78
+#: includes/elementor/blocks/block_button.php:85
+#: includes/elementor/blocks/block_demo_item.php:88
+#: includes/elementor/blocks/block_social_icons.php:667
+#: includes/elementor/blocks/block_simple_link.php:41
+#: includes/elementor/blocks/block_simple_link.php:69
+#: includes/elementor/blocks/block_service_box.php:88
+#: includes/elementor/blocks/block_section_title.php:106
+#: includes/elementor/blocks/block_slider_progress.php:72
+#: includes/elementor/blocks/block_action_block.php:68
+#: includes/elementor/blocks/block_testimonial.php:103
+#: includes/elementor/blocks/block_slider_fixed_bar.php:625
+#: includes/elementor/blocks/block_slider_fixed_bar.php:658
+#: includes/elementor/blocks/block_simple_image.php:100
+#: includes/elementor/blocks/block_simple_image.php:114
+#: includes/elementor/blocks/block_awards.php:91
+#: includes/elementor/blocks/block_types_list.php:90
+#: includes/elementor/blocks/block_heading.php:105
+#: includes/elementor/blocks/block_partner.php:73
+#: includes/elementor/blocks/showcase/block_showcase_1.php:97
+#: includes/elementor/blocks/showcase/block_showcase_1.php:265
+#: includes/elementor/blocks/showcase/block_showcase_2.php:97
+#: includes/elementor/blocks/showcase/block_showcase_2.php:279
+#: includes/elementor/blocks/showcase/block_showcase_3.php:97
+#: includes/elementor/blocks/showcase/block_showcase_3.php:308
+#: includes/elementor/blocks/showcase/block_showcase_7.php:104
+#: includes/elementor/blocks/showcase/block_showcase_7.php:299
+#: includes/elementor/blocks/showcase/block_showcase_6.php:90
+#: includes/elementor/blocks/showcase/block_showcase_4.php:90
+#: includes/elementor/blocks/showcase/block_showcase_5.php:90
+#: includes/elementor/blocks/showcase/block_showcase_5.php:265
+#: includes/elementor/blocks/showcase/block_showcase_8.php:90
+#: includes/elementor/blocks/showcase/block_showcase_9.php:70
+#: includes/elementor/blocks/showcase/block_showcase_12.php:75
+#: includes/elementor/blocks/showcase/block_showcase_10.php:97
+#: includes/elementor/blocks/showcase/block_showcase_10.php:355
+#: includes/elementor/blocks/showcase/block_showcase_11.php:83
+msgid "Link"
+msgstr ""
+
+#: includes/elementor/blocks/block_page_title.php:233
+msgid "Link Color Hover"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_6.php:158
+#: includes/elementor/blocks/showcase/block_showcase_4.php:158
+msgid "Link Indent"
+msgstr ""
+
+#: includes/elementor/blocks/block_simple_link.php:83
+msgid "Link Style"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_1.php:104
+#: includes/elementor/blocks/showcase/block_showcase_2.php:104
+#: includes/elementor/blocks/showcase/block_showcase_3.php:104
+#: includes/elementor/blocks/showcase/block_showcase_7.php:111
+#: includes/elementor/blocks/showcase/block_showcase_5.php:97
+msgid "Link Text"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_12.php:142
+msgid "Links"
+msgstr ""
+
+#: includes/elementor/blocks/block_awards.php:266
+msgid "List"
+msgstr ""
+
+#: includes/elementor/blocks/block_styled_list.php:118
+msgid "List Indent"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:163
+msgid "List Item"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:182
+#: includes/elementor/blocks/block_styled_list.php:86
+msgid "List Item #1"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:186
+#: includes/elementor/blocks/block_styled_list.php:89
+msgid "List Item #2"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:190
+#: includes/elementor/blocks/block_styled_list.php:92
+msgid "List Item #3"
+msgstr ""
+
+#: includes/elementor/blocks/block_timeline.php:97
+#: includes/elementor/blocks/block_awards.php:98
+msgid "List Items"
+msgstr ""
+
+#: includes/dashboard/templates/template-theme-options.php:19
+msgid "Live Customizer"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:74
+#: includes/elementor/blocks/block_google_map.php:308
+msgid "Longitude"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:150
+#: includes/elementor/blocks/block_content_slider.php:249
+msgid "Loop"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:155
+msgid "Loop the Typing"
+msgstr ""
+
+#: includes/elementor/blocks/block_heading.php:211
+msgid "Luminosity"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:277
+msgid "Map Style"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:126
+msgid "Map Type"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:199
+msgid "Map Type Control"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:436
+#: includes/elementor/blocks/block_alert_message.php:119
+#: includes/elementor/blocks/block_fancy_text.php:356
+#: includes/elementor/blocks/block_testimonial.php:333
+#: includes/elementor/blocks/block_testimonial.php:544
+#: includes/elementor/blocks/block_counter_up.php:281
+#: includes/elementor/blocks/showcase/block_showcase_1.php:163
+#: includes/elementor/blocks/showcase/block_showcase_1.php:218
+#: includes/elementor/blocks/showcase/block_showcase_1.php:254
+#: includes/elementor/blocks/showcase/block_showcase_1.php:283
+#: includes/elementor/blocks/showcase/block_showcase_2.php:213
+#: includes/elementor/blocks/showcase/block_showcase_2.php:268
+#: includes/elementor/blocks/showcase/block_showcase_2.php:287
+#: includes/elementor/blocks/showcase/block_showcase_3.php:206
+#: includes/elementor/blocks/showcase/block_showcase_3.php:261
+#: includes/elementor/blocks/showcase/block_showcase_3.php:297
+#: includes/elementor/blocks/showcase/block_showcase_3.php:316
+#: includes/elementor/blocks/showcase/block_showcase_7.php:216
+#: includes/elementor/blocks/showcase/block_showcase_7.php:252
+#: includes/elementor/blocks/showcase/block_showcase_7.php:288
+#: includes/elementor/blocks/showcase/block_showcase_7.php:307
+#: includes/elementor/blocks/showcase/block_showcase_6.php:218
+#: includes/elementor/blocks/showcase/block_showcase_6.php:254
+#: includes/elementor/blocks/showcase/block_showcase_4.php:236
+#: includes/elementor/blocks/showcase/block_showcase_4.php:272
+#: includes/elementor/blocks/showcase/block_showcase_5.php:199
+#: includes/elementor/blocks/showcase/block_showcase_5.php:254
+#: includes/elementor/blocks/showcase/block_showcase_5.php:273
+#: includes/elementor/blocks/showcase/block_showcase_8.php:193
+#: includes/elementor/blocks/showcase/block_showcase_8.php:229
+#: includes/elementor/blocks/showcase/block_showcase_9.php:156
+#: includes/elementor/blocks/showcase/block_showcase_12.php:288
+#: includes/elementor/blocks/showcase/block_showcase_10.php:253
+#: includes/elementor/blocks/showcase/block_showcase_10.php:308
+#: includes/elementor/blocks/showcase/block_showcase_10.php:344
+msgid "Margin"
+msgstr ""
+
+#: includes/elementor/blocks/block_justified_gallery.php:102
+msgid "Margins"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:316
+msgid "Marker Icon"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:292
+msgid "Marker Pins"
+msgstr ""
+
+#: includes/elementor/blocks/block_marquee_text.php:19
+#: includes/elementor/blocks/block_marquee_text.php:41
+#: includes/elementor/blocks/block_marquee_text.php:80
+msgid "Marquee Text"
+msgstr ""
+
+#: includes/elementor/blocks/block_simple_image.php:73
+msgid "Mask"
+msgstr ""
+
+#: includes/elementor/blocks/block_mask_image.php:19
+#: includes/elementor/blocks/block_mask_image.php:41
+#: includes/elementor/blocks/block_mask_image.php:69
+msgid "Mask Image"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:214
+msgid "Max Execution Time:"
+msgstr ""
+
+#: includes/elementor/blocks/block_service_box.php:142
+msgid "Max Height"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:239
+msgid "Max Input Time:"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:279
+msgid "Max Input Vars:"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:177
+msgid "Max Slides"
+msgstr ""
+
+#: includes/elementor/blocks/block_simple_image.php:105
+msgid "Media File"
+msgstr ""
+
+#: includes/elementor/blocks/block_button.php:38
+msgid "Medium"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:358
+msgid "Memory Limit:"
+msgstr ""
+
+#: includes/elementor/blocks/block_timeline.php:184
+#: includes/elementor/blocks/block_timeline.php:225
+#: includes/elementor/blocks/block_testimonial.php:347
+#: includes/elementor/blocks/showcase/block_showcase_12.php:280
+msgid "Meta"
+msgstr ""
+
+#: includes/elementor/blocks/block_testimonial.php:507
+msgid "Meta Position"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_12.php:324
+msgid "Meta Text"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_12.php:299
+msgid "Meta Title"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:437
+#: includes/elementor/blocks/block_pricing_table.php:527
+#: includes/elementor/blocks/block_pricing_table.php:593
+#: includes/elementor/blocks/block_simple_image.php:174
+msgid "Middle"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:278
+msgid "Minutes"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:131
+#: includes/dashboard/templates/template-status.php:146
+#: includes/dashboard/templates/template-status.php:203
+#: includes/dashboard/templates/template-status.php:225
+#: includes/dashboard/templates/template-status.php:248
+#: includes/dashboard/templates/template-status.php:268
+#: includes/dashboard/templates/template-status.php:288
+#: includes/dashboard/templates/template-status.php:308
+#: includes/dashboard/templates/template-status.php:366
+#: includes/dashboard/templates/template-status.php:388
+msgid "More"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:283
+msgid "Mousewheel"
+msgstr ""
+
+#: includes/elementor/blocks/block_heading.php:200
+msgid "Multiply"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:139
+msgid "Mute"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:203
+#: includes/elementor/blocks/block_testimonial.php:77
+#: includes/elementor/blocks/block_testimonial.php:354
+msgid "Name"
+msgstr ""
+
+#: includes/elementor/blocks/block_slider_controls.php:60
+msgid "Navigation"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:121
+#: includes/elementor/blocks/showcase/block_showcase_1.php:120
+#: includes/elementor/blocks/showcase/block_showcase_2.php:127
+#: includes/elementor/blocks/showcase/block_showcase_3.php:120
+#: includes/elementor/blocks/showcase/block_showcase_5.php:113
+#: includes/elementor/blocks/showcase/block_showcase_8.php:106
+#: includes/elementor/blocks/showcase/block_showcase_10.php:113
+msgid "Navigation Anchor"
+msgstr ""
+
+#: includes/elementor/blocks/block_slider_fixed_bar.php:617
+msgid "Navigation Bar"
+msgstr ""
+
+#: includes/dashboard/templates/template-helper.php:20
+msgid "Need Help? SODAThemes Help Center Here"
+msgstr ""
+
+#: includes/helper-functions.php:102
+msgid "New Item Category"
+msgstr ""
+
+#: includes/helper-functions.php:57
+msgid "New Slide"
+msgstr ""
+
+#: includes/elementor/blocks/block_slider_controls.php:101
+msgid "Next Label"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:132
+#: includes/elementor/blocks/block_video_button.php:143
+#: includes/elementor/blocks/block_video_button.php:153
+#: includes/elementor/blocks/block_video_button.php:163
+msgid "No"
+msgstr ""
+
+#: includes/helper-functions.php:113
+msgid "No items"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:108
+#: includes/dashboard/templates/template-status.php:180
+#: includes/dashboard/templates/template-status.php:334
+#: includes/dashboard/templates/template-activate.php:36
+msgid "No Problems"
+msgstr ""
+
+#: includes/elementor/helper.php:109
+msgid "No sidebars were found"
+msgstr ""
+
+#: includes/helper-functions.php:60
+msgid "No Slide Found"
+msgstr ""
+
+#: includes/helper-functions.php:61
+msgid "No slide found in Trash"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:173
+#: includes/elementor/blocks/block_google_map.php:147
+#: includes/elementor/blocks/block_page_title.php:96
+#: includes/elementor/blocks/block_content_slider.php:200
+#: includes/elementor/blocks/block_slider_progress.php:63
+#: includes/elementor/blocks/block_simple_image.php:104
+#: includes/elementor/blocks/block_heading.php:36
+msgid "None"
+msgstr ""
+
+#: includes/elementor/blocks/block_button.php:222
+#: includes/elementor/blocks/block_video_button.php:333
+#: includes/elementor/blocks/block_social_icons.php:745
+#: includes/elementor/blocks/block_simple_link.php:128
+#: includes/elementor/blocks/block_testimonial.php:152
+#: includes/elementor/blocks/block_testimonial.php:246
+#: includes/elementor/blocks/block_testimonial.php:386
+#: includes/elementor/blocks/block_testimonial.php:446
+#: includes/elementor/blocks/block_simple_image.php:236
+#: includes/elementor/blocks/block_heading.php:199
+#: includes/elementor/blocks/block_partner.php:141
+#: includes/elementor/blocks/showcase/block_showcase_10.php:189
+msgid "Normal"
+msgstr ""
+
+#: includes/helper-functions.php:112
+msgid "Not Found"
+msgstr ""
+
+#: includes/dashboard/theme-activation/theme-activation.php:181
+msgid ""
+"Note that you are not required to separately register any of the plugins "
+"which came bundled with the theme."
+msgstr ""
+
+#: includes/elementor/blocks/block_counter_up.php:220
+#: includes/elementor/blocks/showcase/block_showcase_2.php:62
+#: includes/elementor/blocks/showcase/block_showcase_2.php:298
+#: includes/elementor/blocks/showcase/block_showcase_8.php:125
+msgid "Number"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:66
+msgid "Number of slides per view."
+msgstr ""
+
+#: includes/elementor/blocks/block_counter_up.php:121
+msgid "Number Prefix"
+msgstr ""
+
+#: includes/elementor/blocks/block_counter_up.php:130
+msgid "Number Suffix"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:107
+msgid "of the sentence."
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:125
+msgid "Off"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:124
+msgid "On"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:216
+msgid "Order"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:196
+msgid "Orderby"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:131
+#: includes/elementor/blocks/block_pricing_table.php:462
+msgid "Original Price"
+msgstr ""
+
+#: includes/elementor/blocks/block_page_title.php:246
+#: includes/elementor/blocks/block_heading.php:202
+#: includes/elementor/blocks/showcase/block_showcase_4.php:174
+#: includes/elementor/blocks/showcase/block_showcase_10.php:175
+msgid "Overlay"
+msgstr ""
+
+#: includes/elementor/blocks/block_page_title.php:257
+#: includes/elementor/blocks/block_types_list.php:141
+#: includes/elementor/blocks/showcase/block_showcase_4.php:182
+#: includes/elementor/blocks/showcase/block_showcase_10.php:195
+#: includes/elementor/blocks/showcase/block_showcase_10.php:214
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:100
+#: includes/elementor/blocks/block_timeline.php:326
+#: includes/elementor/blocks/block_demo_item.php:118
+#: includes/elementor/blocks/block_service_box.php:181
+#: includes/elementor/blocks/block_pricing_table.php:90
+#: includes/elementor/blocks/block_page_title.php:175
+#: includes/elementor/blocks/block_section_title.php:90
+#: includes/elementor/blocks/block_twitter_review.php:255
+#: includes/elementor/blocks/block_pie_chart.php:95
+#: includes/elementor/blocks/block_fancy_text.php:221
+#: includes/elementor/blocks/block_testimonial.php:373
+#: includes/elementor/blocks/block_counter_up.php:114
+#: includes/elementor/blocks/block_awards.php:363
+#: includes/elementor/blocks/block_types_list.php:189
+#: includes/elementor/blocks/block_heading.php:89
+#: includes/elementor/blocks/showcase/block_showcase_1.php:194
+#: includes/elementor/blocks/showcase/block_showcase_2.php:244
+#: includes/elementor/blocks/showcase/block_showcase_3.php:237
+#: includes/elementor/blocks/showcase/block_showcase_7.php:192
+#: includes/elementor/blocks/showcase/block_showcase_6.php:194
+#: includes/elementor/blocks/showcase/block_showcase_4.php:212
+#: includes/elementor/blocks/showcase/block_showcase_5.php:230
+#: includes/elementor/blocks/showcase/block_showcase_8.php:169
+#: includes/elementor/blocks/showcase/block_showcase_9.php:132
+#: includes/elementor/blocks/showcase/block_showcase_12.php:185
+#: includes/elementor/blocks/showcase/block_showcase_10.php:284
+#: includes/elementor/blocks/showcase/block_showcase_11.php:163
+msgid "p"
+msgstr ""
+
+#: includes/elementor/blocks/block_timeline.php:192
+#: includes/elementor/blocks/block_timeline.php:211
+#: includes/elementor/blocks/block_pricing_table.php:269
+#: includes/elementor/blocks/block_twitter_review.php:190
+#: includes/elementor/blocks/block_action_block.php:132
+#: includes/elementor/blocks/block_alert_message.php:106
+#: includes/elementor/blocks/block_fancy_text.php:344
+#: includes/elementor/blocks/block_testimonial.php:219
+#: includes/elementor/blocks/block_countdown.php:337
+#: includes/elementor/blocks/block_counter_up.php:270
+#: includes/elementor/blocks/block_awards.php:255
+#: includes/elementor/blocks/block_awards.php:274
+#: includes/elementor/blocks/block_awards.php:323
+#: includes/elementor/blocks/showcase/block_showcase_2.php:177
+#: includes/elementor/blocks/showcase/block_showcase_3.php:170
+#: includes/elementor/blocks/showcase/block_showcase_7.php:137
+#: includes/elementor/blocks/showcase/block_showcase_6.php:147
+#: includes/elementor/blocks/showcase/block_showcase_4.php:147
+#: includes/elementor/blocks/showcase/block_showcase_5.php:163
+#: includes/elementor/blocks/showcase/block_showcase_12.php:269
+#: includes/elementor/blocks/showcase/block_showcase_10.php:163
+msgid "Padding"
+msgstr ""
+
+#: includes/elementor/blocks/block_page_title.php:19
+#: includes/elementor/blocks/block_page_title.php:41
+msgid "Page Title"
+msgstr ""
+
+#: includes/helper-functions.php:100
+msgid "Parent Item"
+msgstr ""
+
+#: includes/helper-functions.php:101
+msgid "Parent Item:"
+msgstr ""
+
+#: includes/elementor/blocks/block_partner.php:41
+#: includes/elementor/blocks/block_partner.php:88
+msgid "Partner"
+msgstr ""
+
+#: includes/elementor/blocks/block_partner.php:19
+msgid "Patner"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:142
+#: includes/elementor/blocks/block_pricing_table.php:553
+msgid "Period"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:618
+msgid "Period Indent"
+msgstr ""
+
+#: includes/elementor/blocks/block_phone_block.php:19
+#: includes/elementor/blocks/block_phone_block.php:41
+msgid "Phone Block"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:192
+msgid "PHP Version:"
+msgstr ""
+
+#: includes/elementor/blocks/block_pie_chart.php:23
+msgid "Pie Chart"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:354
+msgid "Pins"
+msgstr ""
+
+#: includes/helper-functions.php:17
+msgid "Pinterest URL"
+msgstr ""
+
+#: includes/dashboard/theme-activation/theme-activation.php:187
+msgid ""
+"Please note that if you used your purchase code on one installation, you are "
+"required to Deactivate in order to use the purchase code on a different "
+"installation."
+msgstr ""
+
+#: includes/dashboard/templates/template-helper.php:24
+msgid ""
+"Please read a <a target=\"_blank\" href=\"https://themeforest."
+"net/page/item_support_policy\">Support Policy</a> before submitting a ticket "
+"and make sure that your question related to our product issues."
+msgstr ""
+
+#: includes/helper-functions.php:110
+msgid "Popular Items"
+msgstr ""
+
+#: includes/elementor/blocks/block_timeline.php:69
+#: includes/elementor/blocks/block_timeline.php:256
+#: includes/elementor/blocks/block_pricing_table.php:410
+#: includes/elementor/blocks/block_slider_fixed_bar.php:582
+msgid "Position"
+msgstr ""
+
+#: includes/elementor/blocks/block_timeline.php:281
+msgid "Position Indent"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:259
+msgid "Post Max Size:"
+msgstr ""
+
+#: includes/elementor/blocks/block_pie_chart.php:294
+#: includes/elementor/blocks/block_fancy_text.php:60
+msgid "Prefix"
+msgstr ""
+
+#: includes/elementor/blocks/block_pie_chart.php:141
+msgid "Prefix Label"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:256
+msgid "Prefix Styles"
+msgstr ""
+
+#: includes/elementor/blocks/block_slider_controls.php:88
+msgid "Prev Label"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:114
+#: includes/elementor/blocks/block_pricing_table.php:349
+msgid "Price"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:499
+#: includes/elementor/blocks/block_pricing_table.php:636
+msgid "Price Indent"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:221
+msgid "Price Table"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:100
+#: includes/elementor/blocks/block_pricing_table.php:342
+msgid "Pricing"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:21
+msgid "Pricing Table"
+msgstr ""
+
+#: includes/elementor/blocks/block_button.php:45
+msgid "Primary"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:23
+#: includes/elementor/blocks/block_progress_bar.php:52
+#: includes/elementor/blocks/block_progress_bar.php:82
+msgid "Progress Bar"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:133
+msgid "Query Settings"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:206
+msgid "Random"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:371
+#, php-format
+msgid "Read more: %s"
+msgstr ""
+
+#: includes/dashboard/theme-activation/theme-activation.php:113
+#: includes/dashboard/theme-activation/theme-activation.php:122
+msgid "Renew"
+msgstr ""
+
+#. page title
+#: includes/dashboard/dashboard.php:99 includes/dashboard/dashboard.php:100
+msgid "Requirements"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:138
+#: includes/elementor/blocks/block_progress_bar.php:177
+#: includes/elementor/blocks/block_simple_icon.php:136
+#: includes/elementor/blocks/block_phone_block.php:101
+#: includes/elementor/blocks/block_button.php:118
+#: includes/elementor/blocks/block_google_map.php:410
+#: includes/elementor/blocks/block_demo_item.php:137
+#: includes/elementor/blocks/block_video_button.php:226
+#: includes/elementor/blocks/block_video_button.php:261
+#: includes/elementor/blocks/block_social_icons.php:716
+#: includes/elementor/blocks/block_simple_link.php:102
+#: includes/elementor/blocks/block_service_box.php:122
+#: includes/elementor/blocks/block_pricing_table.php:240
+#: includes/elementor/blocks/block_page_title.php:134
+#: includes/elementor/blocks/block_slider_controls.php:135
+#: includes/elementor/blocks/block_section_title.php:127
+#: includes/elementor/blocks/block_action_block.php:92
+#: includes/elementor/blocks/block_pie_chart.php:123
+#: includes/elementor/blocks/block_fancy_text.php:240
+#: includes/elementor/blocks/block_testimonial.php:134
+#: includes/elementor/blocks/block_testimonial.php:532
+#: includes/elementor/blocks/block_slider_fixed_bar.php:603
+#: includes/elementor/blocks/block_countdown.php:371
+#: includes/elementor/blocks/block_simple_image.php:151
+#: includes/elementor/blocks/block_counter_up.php:150
+#: includes/elementor/blocks/block_heading.php:126
+#: includes/elementor/blocks/block_partner.php:107
+msgid "Right"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:174
+#: includes/elementor/blocks/block_google_map.php:232
+#: includes/elementor/blocks/block_google_map.php:263
+msgid "Right Center"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:129
+msgid "Road Map"
+msgstr ""
+
+#: includes/elementor/blocks/block_awards.php:293
+msgid "Row Gap"
+msgstr ""
+
+#: includes/elementor/blocks/block_justified_gallery.php:83
+msgid "Row Height"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:122
+msgid "Sale"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:130
+msgid "Satellite"
+msgstr ""
+
+#: includes/elementor/blocks/block_heading.php:206
+msgid "Saturation"
+msgstr ""
+
+#: includes/elementor/blocks/block_heading.php:201
+msgid "Screen"
+msgstr ""
+
+#: includes/helper-functions.php:111
+msgid "Search Items"
+msgstr ""
+
+#: includes/helper-functions.php:59
+msgid "Search Slides"
+msgstr ""
+
+#: includes/elementor/blocks/block_button.php:46
+msgid "Secondary"
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:300
+msgid "Seconds"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_2.php:111
+msgid "Section Color"
+msgstr ""
+
+#: includes/elementor/blocks/block_section_title.php:19
+msgid "Section Title"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:229
+#, php-format
+msgid "See more: %s"
+msgstr ""
+
+#: includes/elementor/helper.php:45
+msgid "Select a Contact Form"
+msgstr ""
+
+#: includes/elementor/helper.php:207
+msgid "Select a Template"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:164
+msgid "Select Category"
+msgstr ""
+
+#: includes/elementor/blocks/block_contact_form_7.php:98
+msgid "Select Form"
+msgstr ""
+
+#: includes/elementor/blocks/block_single_post.php:66
+msgid "Select Post"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:368
+#, php-format
+msgid ""
+"Select Query or create your first slide <a href=\"%s\" target=\"_blank\">"
+"here</a>!"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:151
+msgid "Select Slide"
+msgstr ""
+
+#: includes/helper-functions.php:107
+msgid "Separate items with commas"
+msgstr ""
+
+#: includes/elementor/blocks/block_counter_up.php:195
+#: includes/elementor/blocks/showcase/block_showcase_11.php:102
+#: includes/elementor/blocks/showcase/block_showcase_11.php:108
+#: includes/elementor/blocks/showcase/block_showcase_11.php:190
+msgid "Separator"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_11.php:217
+msgid "Separator Indent"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:179
+#: includes/dashboard/templates/template-status.php:182
+msgid "Server Settings"
+msgstr ""
+
+#: includes/elementor/blocks/block_service_box.php:19
+#: includes/elementor/blocks/block_service_box.php:41
+msgid "Service Box"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_12.php:108
+#: includes/elementor/blocks/showcase/block_showcase_12.php:523
+msgid "Services"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:82
+msgid "Set numbers of slides to define and enable group sliding."
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:196
+#: includes/elementor/blocks/block_content_slider.php:234
+#: includes/elementor/blocks/block_pie_chart.php:160
+#: includes/elementor/blocks/block_justified_gallery.php:76
+#: includes/elementor/blocks/block_fancy_text.php:117
+#: includes/elementor/blocks/block_counter_up.php:167
+#: includes/elementor/blocks/block_awards.php:160
+#: includes/elementor/blocks/showcase/block_showcase_2.php:139
+#: includes/elementor/blocks/showcase/block_showcase_3.php:132
+#: includes/elementor/blocks/showcase/block_showcase_6.php:109
+#: includes/elementor/blocks/showcase/block_showcase_4.php:109
+#: includes/elementor/blocks/showcase/block_showcase_5.php:125
+#: includes/elementor/blocks/showcase/block_showcase_10.php:125
+msgid "Settings"
+msgstr ""
+
+#: includes/elementor/blocks/block_alert_message.php:70
+#: includes/elementor/blocks/block_countdown.php:70
+#: includes/elementor/blocks/block_counter_up.php:187
+msgid "Show"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:139
+msgid "Show By"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:144
+msgid "Show By Category"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:143
+msgid "Show By ID"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:160
+msgid "Show Controls"
+msgstr ""
+
+#: includes/elementor/blocks/block_team_member.php:119
+msgid "Show Socials"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_1.php:41
+#: includes/elementor/blocks/showcase/block_showcase_2.php:41
+#: includes/elementor/blocks/showcase/block_showcase_3.php:41
+#: includes/elementor/blocks/showcase/block_showcase_7.php:41
+#: includes/elementor/blocks/showcase/block_showcase_6.php:41
+#: includes/elementor/blocks/showcase/block_showcase_4.php:41
+#: includes/elementor/blocks/showcase/block_showcase_5.php:41
+#: includes/elementor/blocks/showcase/block_showcase_8.php:41
+#: includes/elementor/blocks/showcase/block_showcase_9.php:41
+#: includes/elementor/blocks/showcase/block_showcase_12.php:41
+#: includes/elementor/blocks/showcase/block_showcase_10.php:41
+#: includes/elementor/blocks/showcase/block_showcase_11.php:41
+msgid "Showcase"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_1.php:111
+#: includes/elementor/blocks/showcase/block_showcase_2.php:118
+#: includes/elementor/blocks/showcase/block_showcase_3.php:111
+#: includes/elementor/blocks/showcase/block_showcase_7.php:118
+#: includes/elementor/blocks/showcase/block_showcase_6.php:97
+#: includes/elementor/blocks/showcase/block_showcase_4.php:97
+#: includes/elementor/blocks/showcase/block_showcase_5.php:104
+#: includes/elementor/blocks/showcase/block_showcase_8.php:97
+#: includes/elementor/blocks/showcase/block_showcase_9.php:77
+#: includes/elementor/blocks/showcase/block_showcase_10.php:104
+#: includes/elementor/blocks/showcase/block_showcase_11.php:90
+msgid "Showcase Items"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_1.php:19
+msgid "Showcase Style 1"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_10.php:19
+msgid "Showcase Style 10"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_11.php:19
+msgid "Showcase Style 11"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_12.php:19
+msgid "Showcase Style 12"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_2.php:19
+msgid "Showcase Style 2"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_3.php:19
+msgid "Showcase Style 3"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_4.php:19
+msgid "Showcase Style 4"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_5.php:19
+msgid "Showcase Style 5"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_6.php:19
+msgid "Showcase Style 6"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_7.php:19
+msgid "Showcase Style 7"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_8.php:19
+msgid "Showcase Style 8"
+msgstr ""
+
+#: includes/elementor/blocks/showcase/block_showcase_9.php:19
+msgid "Showcase Style 9"
+msgstr ""
+
+#: includes/widgets/popular-posts.php:13
+msgid "Shows popular posts."
+msgstr ""
+
+#: includes/widgets/recent-posts.php:13
+msgid "Shows recent posts."
+msgstr ""
+
+#: includes/widgets/socials.php:13
+msgid "Shows social links."
+msgstr ""
+
+#: includes/widgets/trending-posts.php:13
+msgid "Shows trending posts."
+msgstr ""
+
+#: includes/elementor/blocks/block_simple_icon.php:19
+#: includes/elementor/blocks/block_simple_icon.php:41
+msgid "Simple Icon"
+msgstr ""
+
+#: includes/elementor/blocks/block_simple_image.php:19
+#: includes/elementor/blocks/block_simple_image.php:41
+msgid "Simple Image"
+msgstr ""
+
+#: includes/elementor/blocks/block_simple_link.php:19
+msgid "Simple Link"
+msgstr ""
+
+#: includes/elementor/blocks/block_single_post.php:21
+#: includes/elementor/blocks/block_single_post.php:43
+msgid "Single Post"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:350
+msgid "Site Url:"
+msgstr ""
+
+#: includes/elementor/elementor.php:157
+msgid "Sodalicious Elements"
+msgstr ""
+
+#. Name of the plugin
+msgid "Sodalicious Helper Plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Sodalicious Helper Plugin expands the functionality of the theme. Adds new icons, "
+"widgets and much more."
+msgstr ""
+
+#: includes/elementor/elementor.php:163
+msgid "Sodalicious Showcase"
+msgstr ""
+
+#: includes/elementor/blocks/block_button.php:167
+#: includes/elementor/blocks/block_pricing_table.php:391
+msgid "Size"
+msgstr ""
+
+#: includes/helper-functions.php:53
+msgid "Slide"
+msgstr ""
+
+#: includes/helper-functions.php:98
+msgid "Slide Category"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:43
+msgid "Slider"
+msgstr ""
+
+#: includes/elementor/blocks/block_slider_controls.php:19
+#: includes/elementor/blocks/block_slider_controls.php:41
+msgid "Slider Controls"
+msgstr ""
+
+#: includes/elementor/blocks/block_slider_fixed_bar.php:19
+#: includes/elementor/blocks/block_slider_fixed_bar.php:563
+msgid "Slider Fixed Bar"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:276
+msgid "Slider Offset"
+msgstr ""
+
+#: includes/elementor/blocks/block_slider_progress.php:19
+#: includes/elementor/blocks/block_slider_progress.php:41
+msgid "Slider Progress"
+msgstr ""
+
+#: includes/helper-functions.php:52
+msgid "Slides"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:80
+msgid "Slides to Scroll"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_slider.php:65
+msgid "Slides to Show"
+msgstr ""
+
+#: includes/elementor/blocks/block_button.php:37
+msgid "Small"
+msgstr ""
+
+#: includes/elementor/blocks/block_team_member.php:254
+msgid "Social"
+msgstr ""
+
+#: includes/elementor/blocks/block_social_icons.php:575
+#: includes/elementor/blocks/block_social_icons.php:604
+#: includes/elementor/blocks/block_social_icons.php:732
+msgid "Social Icons"
+msgstr ""
+
+#: includes/elementor/blocks/block_social_icons.php:645
+#: includes/elementor/blocks/block_social_icons.php:656
+#: includes/elementor/blocks/block_slider_fixed_bar.php:649
+msgid "Social Network"
+msgstr ""
+
+#: includes/elementor/blocks/block_team_member.php:110
+msgid "Social Profiles"
+msgstr ""
+
+#: includes/elementor/blocks/block_slider_fixed_bar.php:618
+#: includes/elementor/blocks/block_slider_fixed_bar.php:636
+msgid "Socials"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:111
+#: includes/dashboard/templates/template-status.php:183
+#: includes/dashboard/templates/template-status.php:337
+#: includes/dashboard/templates/template-activate.php:39
+msgid "Some Problems"
+msgstr ""
+
+#: includes/elementor/blocks/block_social_icons.php:638
+msgid "Some social networks does not allow to use share features."
+msgstr ""
+
+#: includes/elementor/blocks/block_simple_icon.php:60
+msgid "Source"
+msgstr ""
+
+#: includes/elementor/blocks/block_counter_up.php:200
+msgid "Space"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:99
+#: includes/elementor/blocks/block_timeline.php:325
+#: includes/elementor/blocks/block_demo_item.php:117
+#: includes/elementor/blocks/block_service_box.php:180
+#: includes/elementor/blocks/block_pricing_table.php:89
+#: includes/elementor/blocks/block_page_title.php:174
+#: includes/elementor/blocks/block_section_title.php:89
+#: includes/elementor/blocks/block_twitter_review.php:254
+#: includes/elementor/blocks/block_pie_chart.php:94
+#: includes/elementor/blocks/block_fancy_text.php:220
+#: includes/elementor/blocks/block_testimonial.php:372
+#: includes/elementor/blocks/block_counter_up.php:113
+#: includes/elementor/blocks/block_awards.php:362
+#: includes/elementor/blocks/block_types_list.php:188
+#: includes/elementor/blocks/block_heading.php:88
+#: includes/elementor/blocks/showcase/block_showcase_1.php:193
+#: includes/elementor/blocks/showcase/block_showcase_2.php:243
+#: includes/elementor/blocks/showcase/block_showcase_3.php:236
+#: includes/elementor/blocks/showcase/block_showcase_7.php:191
+#: includes/elementor/blocks/showcase/block_showcase_6.php:193
+#: includes/elementor/blocks/showcase/block_showcase_4.php:211
+#: includes/elementor/blocks/showcase/block_showcase_5.php:229
+#: includes/elementor/blocks/showcase/block_showcase_8.php:168
+#: includes/elementor/blocks/showcase/block_showcase_9.php:131
+#: includes/elementor/blocks/showcase/block_showcase_12.php:184
+#: includes/elementor/blocks/showcase/block_showcase_10.php:283
+#: includes/elementor/blocks/showcase/block_showcase_11.php:162
+msgid "span"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:106
+msgid "Specify a start time (in seconds)"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:119
+msgid "Specify an end time (in seconds)"
+msgstr ""
+
+#: includes/elementor/blocks/block_mask_image.php:82
+msgid "Spin"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:105
+msgid "Start Time"
+msgstr ""
+
+#: includes/elementor/blocks/block_counter_up.php:76
+msgid "Starting Number"
+msgstr ""
+
+#: includes/elementor/blocks/block_slider_fixed_bar.php:586
+msgid "Static"
+msgstr ""
+
+#: includes/dashboard/theme-activation/theme-activation.php:93
+msgid "Status:"
+msgstr ""
+
+#: includes/elementor/blocks/block_content_marquee.php:81
+msgid "Stopable"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:246
+msgid "Streetview Control"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:255
+msgid "Streetview Position"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:73
+msgid "String"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:82
+msgid "Strings"
+msgstr ""
+
+#: includes/elementor/blocks/block_heading.php:166
+#: includes/elementor/blocks/block_marquee_text.php:104
+msgid "Stroke"
+msgstr ""
+
+#: includes/elementor/blocks/block_heading.php:174
+#: includes/elementor/blocks/block_marquee_text.php:112
+msgid "Stroke Fill Width"
+msgstr ""
+
+#: includes/elementor/blocks/block_team_member.php:60
+#: includes/elementor/blocks/block_progress_bar.php:71
+#: includes/elementor/blocks/block_simple_icon.php:117
+#: includes/elementor/blocks/block_phone_block.php:118
+#: includes/elementor/blocks/block_button.php:96
+#: includes/elementor/blocks/block_demo_item.php:99
+#: includes/elementor/blocks/block_social_icons.php:623
+#: includes/elementor/blocks/block_service_box.php:103
+#: includes/elementor/blocks/block_page_title.php:60
+#: includes/elementor/blocks/block_page_title.php:149
+#: includes/elementor/blocks/block_slider_controls.php:116
+#: includes/elementor/blocks/block_section_title.php:143
+#: includes/elementor/blocks/block_slider_progress.php:47
+#: includes/elementor/blocks/block_styled_list.php:60
+#: includes/elementor/blocks/block_single_post.php:49
+#: includes/elementor/blocks/block_counter_up.php:64
+#: includes/elementor/blocks/block_heading.php:142
+msgid "Style"
+msgstr ""
+
+#: includes/elementor/blocks/block_team_member.php:64
+#: includes/elementor/blocks/block_social_icons.php:592
+#: includes/elementor/blocks/block_page_title.php:64
+#: includes/elementor/blocks/block_styled_list.php:64
+#: includes/elementor/blocks/block_single_post.php:53
+#: includes/elementor/blocks/block_counter_up.php:67
+msgid "Style 1"
+msgstr ""
+
+#: includes/elementor/blocks/block_team_member.php:65
+#: includes/elementor/blocks/block_social_icons.php:593
+#: includes/elementor/blocks/block_page_title.php:65
+#: includes/elementor/blocks/block_styled_list.php:65
+#: includes/elementor/blocks/block_single_post.php:54
+#: includes/elementor/blocks/block_counter_up.php:68
+msgid "Style 2"
+msgstr ""
+
+#: includes/elementor/blocks/block_team_member.php:66
+#: includes/elementor/blocks/block_page_title.php:66
+#: includes/elementor/blocks/block_styled_list.php:66
+#: includes/elementor/blocks/block_single_post.php:55
+msgid "Style 3"
+msgstr ""
+
+#: includes/elementor/blocks/block_team_member.php:67
+#: includes/elementor/blocks/block_single_post.php:56
+msgid "Style 4"
+msgstr ""
+
+#: includes/elementor/blocks/block_single_post.php:57
+msgid "Style 5"
+msgstr ""
+
+#: includes/elementor/blocks/block_single_post.php:58
+msgid "Style 6"
+msgstr ""
+
+#: includes/elementor/blocks/block_styled_list.php:19
+#: includes/elementor/blocks/block_styled_list.php:41
+#: includes/elementor/blocks/block_styled_list.php:104
+msgid "Styled List"
+msgstr ""
+
+#: includes/dashboard/templates/template-helper.php:77
+msgid "Subscribe"
+msgstr ""
+
+#: includes/dashboard/templates/template-helper.php:76
+msgid "Subscribe and receive exclusive information and offers! Interested?"
+msgstr ""
+
+#: includes/dashboard/templates/template-helper.php:72
+msgid "Subscribe us"
+msgstr ""
+
+#: includes/elementor/blocks/block_page_title.php:92
+#: includes/elementor/blocks/block_page_title.php:112
+#: includes/elementor/blocks/block_page_title.php:199
+#: includes/elementor/blocks/block_section_title.php:60
+#: includes/elementor/blocks/block_section_title.php:174
+msgid "Subtitle"
+msgstr ""
+
+#: includes/elementor/blocks/block_section_title.php:209
+msgid "Subtitle Indent"
+msgstr ""
+
+#: includes/elementor/blocks/block_pie_chart.php:319
+#: includes/elementor/blocks/block_fancy_text.php:103
+msgid "Suffix"
+msgstr ""
+
+#: includes/elementor/blocks/block_pie_chart.php:149
+msgid "Suffix Label"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:384
+msgid "Suffix Styles"
+msgstr ""
+
+#: includes/dashboard/theme-activation/theme-activation.php:118
+msgid "Support Expired on:"
+msgstr ""
+
+#: includes/dashboard/templates/template-helper.php:54
+msgid "Support forum"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:137
+msgid "Swing"
+msgstr ""
+
+#: includes/helper-functions.php:96
+msgctxt "Taxonomy General Name"
+msgid "Slide Categories"
+msgstr ""
+
+#: includes/helper-functions.php:97
+msgctxt "Taxonomy Singular Name"
+msgid "Slide Category"
+msgstr ""
+
+#: includes/elementor/blocks/block_team_member.php:19
+#: includes/elementor/blocks/block_team_member.php:41
+#: includes/elementor/blocks/block_team_member.php:209
+msgid "Team Member"
+msgstr ""
+
+#: includes/elementor/blocks/block_phone_block.php:69
+#: includes/elementor/blocks/block_phone_block.php:237
+msgid "Tel"
+msgstr ""
+
+#: includes/elementor/blocks/block_template.php:21
+#: includes/elementor/blocks/block_template.php:47
+msgid "Template"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:132
+msgid "Terrain"
+msgstr ""
+
+#: includes/elementor/blocks/block_testimonial.php:19
+#: includes/elementor/blocks/block_testimonial.php:41
+#: includes/elementor/blocks/block_testimonial.php:115
+msgid "Testimonial"
+msgstr ""
+
+#: includes/elementor/blocks/block_team_member.php:152
+#: includes/elementor/blocks/block_timeline.php:90
+#: includes/elementor/blocks/block_timeline.php:350
+#: includes/elementor/blocks/block_button.php:76
+#: includes/elementor/blocks/block_google_map.php:346
+#: includes/elementor/blocks/block_google_map.php:452
+#: includes/elementor/blocks/block_simple_link.php:60
+#: includes/elementor/blocks/block_service_box.php:81
+#: includes/elementor/blocks/block_service_box.php:220
+#: includes/elementor/blocks/block_pricing_table.php:161
+#: includes/elementor/blocks/block_page_title.php:97
+#: includes/elementor/blocks/block_slider_controls.php:78
+#: includes/elementor/blocks/block_action_block.php:60
+#: includes/elementor/blocks/block_action_block.php:154
+#: includes/elementor/blocks/block_styled_list.php:75
+#: includes/elementor/blocks/block_styled_list.php:133
+#: includes/elementor/blocks/block_alert_message.php:60
+#: includes/elementor/blocks/block_awards.php:84
+#: includes/elementor/blocks/block_awards.php:387
+#: includes/elementor/blocks/block_marquee_text.php:60
+#: includes/elementor/blocks/showcase/block_showcase_1.php:90
+#: includes/elementor/blocks/showcase/block_showcase_1.php:229
+#: includes/elementor/blocks/showcase/block_showcase_3.php:77
+#: includes/elementor/blocks/showcase/block_showcase_3.php:272
+#: includes/elementor/blocks/showcase/block_showcase_7.php:77
+#: includes/elementor/blocks/showcase/block_showcase_7.php:263
+#: includes/elementor/blocks/showcase/block_showcase_10.php:319
+msgid "Text"
+msgstr ""
+
+#: includes/elementor/blocks/block_team_member.php:226
+#: includes/elementor/blocks/block_team_member.php:244
+#: includes/elementor/blocks/block_team_member.php:262
+#: includes/elementor/blocks/block_progress_bar.php:319
+#: includes/elementor/blocks/block_progress_bar.php:344
+#: includes/elementor/blocks/block_timeline.php:239
+#: includes/elementor/blocks/block_timeline.php:264
+#: includes/elementor/blocks/block_timeline.php:333
+#: includes/elementor/blocks/block_timeline.php:358
+#: includes/elementor/blocks/block_button.php:228
+#: includes/elementor/blocks/block_button.php:264
+#: includes/elementor/blocks/block_google_map.php:435
+#: includes/elementor/blocks/block_google_map.php:460
+#: includes/elementor/blocks/block_video_button.php:339
+#: includes/elementor/blocks/block_video_button.php:375
+#: includes/elementor/blocks/block_video_button.php:419
+#: includes/elementor/blocks/block_simple_link.php:134
+#: includes/elementor/blocks/block_simple_link.php:153
+#: includes/elementor/blocks/block_service_box.php:195
+#: includes/elementor/blocks/block_service_box.php:235
+#: includes/elementor/blocks/block_pricing_table.php:297
+#: includes/elementor/blocks/block_pricing_table.php:322
+#: includes/elementor/blocks/block_pricing_table.php:356
+#: includes/elementor/blocks/block_pricing_table.php:474
+#: includes/elementor/blocks/block_pricing_table.php:561
+#: includes/elementor/blocks/block_pricing_table.php:663
+#: includes/elementor/blocks/block_page_title.php:189
+#: includes/elementor/blocks/block_page_title.php:220
+#: includes/elementor/blocks/block_slider_controls.php:148
+#: includes/elementor/blocks/block_section_title.php:164
+#: includes/elementor/blocks/block_section_title.php:189
+#: includes/elementor/blocks/block_section_title.php:240
+#: includes/elementor/blocks/block_action_block.php:161
+#: includes/elementor/blocks/block_pie_chart.php:277
+#: includes/elementor/blocks/block_pie_chart.php:302
+#: includes/elementor/blocks/block_pie_chart.php:327
+#: includes/elementor/blocks/block_styled_list.php:148
+#: includes/elementor/blocks/block_alert_message.php:89
+#: includes/elementor/blocks/block_fancy_text.php:266
+#: includes/elementor/blocks/block_fancy_text.php:293
+#: includes/elementor/blocks/block_fancy_text.php:394
+#: includes/elementor/blocks/block_testimonial.php:252
+#: includes/elementor/blocks/block_testimonial.php:271
+#: includes/elementor/blocks/block_testimonial.php:392
+#: includes/elementor/blocks/block_testimonial.php:411
+#: includes/elementor/blocks/block_testimonial.php:452
+#: includes/elementor/blocks/block_testimonial.php:470
+#: includes/elementor/blocks/block_slider_fixed_bar.php:682
+#: includes/elementor/blocks/block_countdown.php:392
+#: includes/elementor/blocks/block_countdown.php:417
+#: includes/elementor/blocks/block_simple_image.php:242
+#: includes/elementor/blocks/block_simple_image.php:271
+#: includes/elementor/blocks/block_counter_up.php:227
+#: includes/elementor/blocks/block_counter_up.php:300
+#: includes/elementor/blocks/block_awards.php:238
+#: includes/elementor/blocks/block_awards.php:370
+#: includes/elementor/blocks/block_awards.php:395
+#: includes/elementor/blocks/block_types_list.php:196
+#: includes/elementor/blocks/block_types_list.php:221
+#: includes/elementor/blocks/block_heading.php:156
+#: includes/elementor/blocks/block_marquee_text.php:87
+#: includes/elementor/blocks/showcase/block_showcase_1.php:146
+#: includes/elementor/blocks/showcase/block_showcase_1.php:201
+#: includes/elementor/blocks/showcase/block_showcase_1.php:237
+#: includes/elementor/blocks/showcase/block_showcase_1.php:273
+#: includes/elementor/blocks/showcase/block_showcase_2.php:196
+#: includes/elementor/blocks/showcase/block_showcase_2.php:251
+#: includes/elementor/blocks/showcase/block_showcase_2.php:306
+#: includes/elementor/blocks/showcase/block_showcase_3.php:189
+#: includes/elementor/blocks/showcase/block_showcase_3.php:244
+#: includes/elementor/blocks/showcase/block_showcase_3.php:280
+#: includes/elementor/blocks/showcase/block_showcase_7.php:199
+#: includes/elementor/blocks/showcase/block_showcase_7.php:235
+#: includes/elementor/blocks/showcase/block_showcase_7.php:271
+#: includes/elementor/blocks/showcase/block_showcase_6.php:201
+#: includes/elementor/blocks/showcase/block_showcase_6.php:237
+#: includes/elementor/blocks/showcase/block_showcase_4.php:219
+#: includes/elementor/blocks/showcase/block_showcase_4.php:255
+#: includes/elementor/blocks/showcase/block_showcase_5.php:182
+#: includes/elementor/blocks/showcase/block_showcase_5.php:237
+#: includes/elementor/blocks/showcase/block_showcase_8.php:132
+#: includes/elementor/blocks/showcase/block_showcase_8.php:176
+#: includes/elementor/blocks/showcase/block_showcase_8.php:212
+#: includes/elementor/blocks/showcase/block_showcase_9.php:139
+#: includes/elementor/blocks/showcase/block_showcase_12.php:192
+#: includes/elementor/blocks/showcase/block_showcase_12.php:217
+#: includes/elementor/blocks/showcase/block_showcase_12.php:314
+#: includes/elementor/blocks/showcase/block_showcase_12.php:339
+#: includes/elementor/blocks/showcase/block_showcase_12.php:379
+#: includes/elementor/blocks/showcase/block_showcase_10.php:236
+#: includes/elementor/blocks/showcase/block_showcase_10.php:291
+#: includes/elementor/blocks/showcase/block_showcase_10.php:327
+#: includes/elementor/blocks/showcase/block_showcase_10.php:363
+#: includes/elementor/blocks/showcase/block_showcase_11.php:170
+#: includes/elementor/blocks/showcase/block_showcase_11.php:207
+msgid "Text Color"
+msgstr ""
+
+#: includes/elementor/blocks/block_timeline.php:375
+#: includes/elementor/blocks/block_service_box.php:245
+#: includes/elementor/blocks/block_awards.php:412
+#: includes/elementor/blocks/block_types_list.php:238
+#: includes/elementor/blocks/showcase/block_showcase_12.php:349
+msgid "Text Indent"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:202
+msgid "Text Settings"
+msgstr ""
+
+#: includes/dashboard/templates/template-welcome.php:24
+#, php-format
+msgid "Thank you for choosing %s, Cheers!"
+msgstr ""
+
+#: includes/dashboard/templates/template-activate.php:35
+msgid "Theme Activated"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:107
+#: includes/dashboard/templates/template-status.php:110
+msgid "Theme Config"
+msgstr ""
+
+#: includes/dashboard/templates/template-welcome.php:13
+msgid ""
+"Theme is already installed and ready to use! Let's build something "
+"impressive."
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:139
+msgid "Theme License:"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:120
+msgid "Theme Name:"
+msgstr ""
+
+#: includes/dashboard/templates/template-activate.php:38
+msgid "Theme Not Activated"
+msgstr ""
+
+#: includes/elementor/blocks/block_team_member.php:50
+#: includes/elementor/blocks/block_progress_bar.php:61
+#: includes/elementor/blocks/block_simple_icon.php:50
+#: includes/elementor/blocks/block_timeline.php:50
+#: includes/elementor/blocks/block_phone_block.php:50
+#: includes/elementor/blocks/block_button.php:66
+#: includes/elementor/blocks/block_google_map.php:54
+#: includes/elementor/blocks/block_demo_item.php:50
+#: includes/elementor/blocks/block_video_button.php:58
+#: includes/elementor/blocks/block_social_icons.php:613
+#: includes/elementor/blocks/block_simple_link.php:50
+#: includes/elementor/blocks/block_service_box.php:50
+#: includes/elementor/blocks/block_pricing_table.php:52
+#: includes/elementor/blocks/block_page_title.php:50
+#: includes/elementor/blocks/block_slider_controls.php:50
+#: includes/elementor/blocks/block_contact_form_7.php:54
+#: includes/elementor/blocks/block_contact_form_7.php:88
+#: includes/elementor/blocks/block_template.php:56
+#: includes/elementor/blocks/block_section_title.php:50
+#: includes/elementor/blocks/block_content_slider.php:52
+#: includes/elementor/blocks/block_twitter_review.php:50
+#: includes/elementor/blocks/block_images_compare.php:50
+#: includes/elementor/blocks/block_action_block.php:50
+#: includes/elementor/blocks/block_pie_chart.php:54
+#: includes/elementor/blocks/block_content_marquee.php:52
+#: includes/elementor/blocks/block_styled_list.php:50
+#: includes/elementor/blocks/block_alert_message.php:50
+#: includes/elementor/blocks/block_justified_gallery.php:50
+#: includes/elementor/blocks/block_fancy_text.php:50
+#: includes/elementor/blocks/block_mask_image.php:50
+#: includes/elementor/blocks/block_testimonial.php:50
+#: includes/elementor/blocks/block_slider_fixed_bar.php:572
+#: includes/elementor/blocks/block_countdown.php:50
+#: includes/elementor/blocks/block_simple_image.php:50
+#: includes/elementor/blocks/block_counter_up.php:54
+#: includes/elementor/blocks/block_awards.php:58
+#: includes/elementor/blocks/block_types_list.php:50
+#: includes/elementor/blocks/block_heading.php:58
+#: includes/elementor/blocks/block_marquee_text.php:50
+#: includes/elementor/blocks/block_partner.php:50
+#: includes/elementor/blocks/showcase/block_showcase_1.php:50
+#: includes/elementor/blocks/showcase/block_showcase_2.php:50
+#: includes/elementor/blocks/showcase/block_showcase_3.php:50
+#: includes/elementor/blocks/showcase/block_showcase_7.php:50
+#: includes/elementor/blocks/showcase/block_showcase_6.php:50
+#: includes/elementor/blocks/showcase/block_showcase_4.php:50
+#: includes/elementor/blocks/showcase/block_showcase_5.php:50
+#: includes/elementor/blocks/showcase/block_showcase_8.php:50
+#: includes/elementor/blocks/showcase/block_showcase_12.php:50
+#: includes/elementor/blocks/showcase/block_showcase_10.php:50
+#: includes/elementor/blocks/showcase/block_showcase_11.php:50
+msgid "Theme not activated!"
+msgstr ""
+
+#. page title
+#: includes/dashboard/dashboard.php:118 includes/dashboard/dashboard.php:119
+#: includes/dashboard/templates/template-theme-options.php:24
+msgid "Theme Options"
+msgstr ""
+
+#. page title
+#: includes/dashboard/dashboard.php:108 includes/dashboard/dashboard.php:109
+msgid "Theme Plugins"
+msgstr ""
+
+#: includes/elementor/blocks/block_pie_chart.php:215
+msgid "Thickness"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:64
+msgid "This is the"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:140
+msgid "This will play the video muted"
+msgstr ""
+
+#: includes/elementor/blocks/block_counter_up.php:185
+msgid "Thousand Separator"
+msgstr ""
+
+#: includes/elementor/blocks/block_timeline.php:19
+#: includes/elementor/blocks/block_timeline.php:41
+msgid "Timeline"
+msgstr ""
+
+#: includes/elementor/blocks/block_team_member.php:87
+#: includes/elementor/blocks/block_team_member.php:219
+#: includes/elementor/blocks/block_progress_bar.php:80
+#: includes/elementor/blocks/block_progress_bar.php:312
+#: includes/elementor/blocks/block_timeline.php:76
+#: includes/elementor/blocks/block_timeline.php:307
+#: includes/elementor/blocks/block_google_map.php:337
+#: includes/elementor/blocks/block_google_map.php:427
+#: includes/elementor/blocks/block_demo_item.php:73
+#: includes/elementor/blocks/block_service_box.php:73
+#: includes/elementor/blocks/block_service_box.php:161
+#: includes/elementor/blocks/block_pricing_table.php:62
+#: includes/elementor/blocks/block_pricing_table.php:290
+#: includes/elementor/blocks/block_page_title.php:105
+#: includes/elementor/blocks/block_page_title.php:156
+#: includes/elementor/blocks/block_section_title.php:41
+#: includes/elementor/blocks/block_section_title.php:68
+#: includes/elementor/blocks/block_content_slider.php:204
+#: includes/elementor/blocks/block_pie_chart.php:270
+#: includes/elementor/blocks/block_counter_up.php:92
+#: includes/elementor/blocks/block_counter_up.php:292
+#: includes/elementor/blocks/block_awards.php:77
+#: includes/elementor/blocks/block_awards.php:344
+#: includes/elementor/blocks/block_types_list.php:75
+#: includes/elementor/blocks/block_types_list.php:169
+#: includes/elementor/blocks/block_heading.php:49
+#: includes/elementor/blocks/block_heading.php:68
+#: includes/elementor/blocks/showcase/block_showcase_1.php:82
+#: includes/elementor/blocks/showcase/block_showcase_1.php:174
+#: includes/elementor/blocks/showcase/block_showcase_2.php:76
+#: includes/elementor/blocks/showcase/block_showcase_2.php:224
+#: includes/elementor/blocks/showcase/block_showcase_3.php:69
+#: includes/elementor/blocks/showcase/block_showcase_3.php:217
+#: includes/elementor/blocks/showcase/block_showcase_7.php:62
+#: includes/elementor/blocks/showcase/block_showcase_7.php:172
+#: includes/elementor/blocks/showcase/block_showcase_6.php:62
+#: includes/elementor/blocks/showcase/block_showcase_6.php:174
+#: includes/elementor/blocks/showcase/block_showcase_4.php:62
+#: includes/elementor/blocks/showcase/block_showcase_4.php:192
+#: includes/elementor/blocks/showcase/block_showcase_5.php:62
+#: includes/elementor/blocks/showcase/block_showcase_5.php:210
+#: includes/elementor/blocks/showcase/block_showcase_8.php:62
+#: includes/elementor/blocks/showcase/block_showcase_8.php:149
+#: includes/elementor/blocks/showcase/block_showcase_9.php:49
+#: includes/elementor/blocks/showcase/block_showcase_9.php:112
+#: includes/elementor/blocks/showcase/block_showcase_12.php:86
+#: includes/elementor/blocks/showcase/block_showcase_12.php:165
+#: includes/elementor/blocks/showcase/block_showcase_10.php:62
+#: includes/elementor/blocks/showcase/block_showcase_10.php:264
+#: includes/elementor/blocks/showcase/block_showcase_11.php:62
+#: includes/elementor/blocks/showcase/block_showcase_11.php:143
+msgid "Title"
+msgstr ""
+
+#: includes/elementor/blocks/block_service_box.php:205
+msgid "Title Indent"
+msgstr ""
+
+#: includes/widgets/popular-posts.php:148
+#: includes/widgets/trending-posts.php:153 includes/widgets/socials.php:73
+#: includes/widgets/recent-posts.php:147
+msgid "Title:"
+msgstr ""
+
+#: includes/dashboard/theme-activation/theme-activation.php:17
+msgid ""
+"To receive automatic updates of your theme, you need to activate your "
+"license key."
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:433
+#: includes/elementor/blocks/block_pricing_table.php:523
+#: includes/elementor/blocks/block_pricing_table.php:589
+#: includes/elementor/blocks/block_testimonial.php:511
+#: includes/elementor/blocks/block_simple_image.php:173
+msgid "Top"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:171
+#: includes/elementor/blocks/block_google_map.php:229
+#: includes/elementor/blocks/block_google_map.php:260
+msgid "Top Center"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:170
+#: includes/elementor/blocks/block_google_map.php:259
+msgid "Top Left"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:228
+msgid "Top Left (Default)"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:172
+#: includes/elementor/blocks/block_google_map.php:230
+#: includes/elementor/blocks/block_google_map.php:261
+msgid "Top Right"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:280
+#: includes/elementor/blocks/block_pie_chart.php:244
+msgid "Track Color"
+msgstr ""
+
+#: includes/helper-functions.php:16
+msgid "Tumblr URL"
+msgstr ""
+
+#: includes/elementor/blocks/block_twitter_review.php:19
+#: includes/elementor/blocks/block_twitter_review.php:41
+msgid "Twitter Review"
+msgstr ""
+
+#: includes/helper-functions.php:15
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:179
+msgid "Type Cursor Symbol"
+msgstr ""
+
+#: includes/elementor/blocks/block_types_list.php:99
+msgid "Types"
+msgstr ""
+
+#: includes/elementor/blocks/block_types_list.php:19
+#: includes/elementor/blocks/block_types_list.php:41
+msgid "Types List"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:129
+msgid "Typing"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:367
+msgid "Typing Cursor Color"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:144
+msgid "Typing Speed"
+msgstr ""
+
+#: includes/elementor/blocks/block_progress_bar.php:305
+#: includes/elementor/blocks/block_pie_chart.php:263
+msgid "Typography"
+msgstr ""
+
+#: includes/helper-functions.php:105
+msgid "Update Item"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:299
+msgid "Upload Max Filesize:"
+msgstr ""
+
+#: includes/dashboard/theme-activation/theme-activation.php:97
+msgid "Valid"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:154
+#: includes/dashboard/templates/template-status.php:354
+msgid "Version:"
+msgstr ""
+
+#: includes/elementor/blocks/block_slider_progress.php:52
+msgid "Vertical"
+msgstr ""
+
+#: includes/elementor/blocks/block_simple_image.php:170
+msgid "Vertical Alignment"
+msgstr ""
+
+#: includes/elementor/blocks/block_pricing_table.php:428
+#: includes/elementor/blocks/block_pricing_table.php:518
+#: includes/elementor/blocks/block_pricing_table.php:584
+msgid "Vertical Position"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:27
+#: includes/elementor/blocks/block_video_button.php:49
+msgid "Video Button"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:189
+msgid "Video Height"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:68
+msgid "Video Type"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:95
+msgid "Video URL"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:170
+msgid "Video Width"
+msgstr ""
+
+#: includes/elementor/blocks/block_team_member.php:129
+#: includes/elementor/blocks/showcase/block_showcase_8.php:274
+#: includes/elementor/blocks/showcase/block_showcase_9.php:198
+msgid "View"
+msgstr ""
+
+#: includes/helper-functions.php:106
+msgid "View Item"
+msgstr ""
+
+#: includes/helper-functions.php:58
+msgid "View Slide"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:73
+msgid "Vimeo"
+msgstr ""
+
+#: includes/dashboard/templates/template-helper.php:41
+msgid "Visit Documentation"
+msgstr ""
+
+#. Author of the plugin
+msgid "SODAThemes"
+msgstr ""
+
+#: includes/widgets/popular-posts.php:15
+msgid "SODAThemes: Popular Posts"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:15
+msgid "SODAThemes: Recent Posts"
+msgstr ""
+
+#: includes/widgets/socials.php:15
+msgid "SODAThemes: Social Links"
+msgstr ""
+
+#: includes/widgets/trending-posts.php:15
+msgid "SODAThemes: Trending Posts"
+msgstr ""
+
+#: includes/elementor/blocks/block_contact_form_7.php:45
+msgid "Warning!"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:227
+#, php-format
+msgid "We recommend setting max execution time to at least %s."
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:250
+#: includes/dashboard/templates/template-status.php:290
+#, php-format
+msgid "We recommend to at least %s."
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:270
+#: includes/dashboard/templates/template-status.php:310
+#, php-format
+msgid "We recommend to at least %sM."
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:205
+#, php-format
+msgid "We recommend upgrade php version to at least %s."
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:132
+msgid ""
+"We recommend use child theme to prevent loosing your customizations after "
+"theme update."
+msgstr ""
+
+#: includes/dashboard/theme-activation/theme-activation.php:171
+msgid ""
+"We will send update news of this product by this email address, don't worry, "
+"we hate spam."
+msgstr ""
+
+#: includes/elementor/blocks/block_countdown.php:212
+msgid "Weeks"
+msgstr ""
+
+#. page title
+#: includes/dashboard/dashboard.php:83 includes/dashboard/dashboard.php:84
+msgid "Welcome"
+msgstr ""
+
+#: includes/elementor/blocks/block_slider_progress.php:64
+msgid "White"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:382
+#: includes/elementor/blocks/block_counter_up.php:254
+#: includes/elementor/blocks/block_marquee_text.php:134
+msgid "Width"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:333
+#: includes/dashboard/templates/template-status.php:336
+msgid "WordPress Settings"
+msgstr ""
+
+#: includes/dashboard/templates/template-status.php:381
+msgid "WP_DEBUG:"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:131
+#: includes/elementor/blocks/block_video_button.php:142
+#: includes/elementor/blocks/block_video_button.php:152
+#: includes/elementor/blocks/block_video_button.php:162
+msgid "Yes"
+msgstr ""
+
+#: includes/dashboard/theme-activation/theme-activation.php:127
+msgid "Your License Key:"
+msgstr ""
+
+#: includes/elementor/blocks/block_video_button.php:72
+msgid "YouTube"
+msgstr ""
+
+#: includes/elementor/blocks/block_fancy_text.php:135
+msgid "Zoom"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:156
+msgid "Zoom Control"
+msgstr ""
+
+#: includes/elementor/blocks/block_google_map.php:84
+msgid "Zoom Level"
+msgstr ""
